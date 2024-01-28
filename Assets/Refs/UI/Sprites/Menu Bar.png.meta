@@ -1,0 +1,7940 @@
+fileFormatVersion: 2
+guid: 3d8c0108f1f881c40bad9781ffe70923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7049795013504091112
+    second: Menu Bar_0
+  - first:
+      213: -7129889862245945361
+    second: Menu Bar_1
+  - first:
+      213: 5419017470248397798
+    second: Menu Bar_2
+  - first:
+      213: -3512904136437389896
+    second: Menu Bar_3
+  - first:
+      213: -4746676499299069562
+    second: Menu Bar_4
+  - first:
+      213: 2115777952933894846
+    second: Menu Bar_5
+  - first:
+      213: 8490682514604773652
+    second: Menu Bar_6
+  - first:
+      213: 277646646968991113
+    second: Menu Bar_7
+  - first:
+      213: 7579714595258811368
+    second: Menu Bar_8
+  - first:
+      213: -66138602895473666
+    second: Menu Bar_9
+  - first:
+      213: 6387041663378718762
+    second: Menu Bar_10
+  - first:
+      213: -5999514871524586422
+    second: Menu Bar_11
+  - first:
+      213: -7075022171775623404
+    second: Menu Bar_12
+  - first:
+      213: -8332748165128768093
+    second: Menu Bar_13
+  - first:
+      213: -1031587761877784356
+    second: Menu Bar_14
+  - first:
+      213: -7325538111155530429
+    second: Menu Bar_15
+  - first:
+      213: -1358434477876924383
+    second: Menu Bar_16
+  - first:
+      213: 2261385171099848868
+    second: Menu Bar_17
+  - first:
+      213: -8185949553692865503
+    second: Menu Bar_18
+  - first:
+      213: -7425394344737746337
+    second: Menu Bar_19
+  - first:
+      213: -7670020522625742439
+    second: Menu Bar_20
+  - first:
+      213: -8349596534236531778
+    second: Menu Bar_21
+  - first:
+      213: 2737163098536467449
+    second: Menu Bar_22
+  - first:
+      213: -1025718023090045357
+    second: Menu Bar_23
+  - first:
+      213: 8318558819537670883
+    second: Menu Bar_24
+  - first:
+      213: -1294407852998395746
+    second: Menu Bar_25
+  - first:
+      213: 8837720731107021850
+    second: Menu Bar_26
+  - first:
+      213: -157089768389917821
+    second: Menu Bar_27
+  - first:
+      213: 6079246238472222109
+    second: Menu Bar_28
+  - first:
+      213: 5186213207623816149
+    second: Menu Bar_29
+  - first:
+      213: 565716951927696438
+    second: Menu Bar_30
+  - first:
+      213: -5395085556583998234
+    second: Menu Bar_31
+  - first:
+      213: 7555109211267772804
+    second: Menu Bar_32
+  - first:
+      213: -7826599862650026803
+    second: Menu Bar_33
+  - first:
+      213: -1621692061273112297
+    second: Menu Bar_34
+  - first:
+      213: -164678601844832837
+    second: Menu Bar_35
+  - first:
+      213: 4843675531890388742
+    second: Menu Bar_36
+  - first:
+      213: -1403092663946774109
+    second: Menu Bar_37
+  - first:
+      213: 4325160685767427808
+    second: Menu Bar_38
+  - first:
+      213: -1923575284690360292
+    second: Menu Bar_39
+  - first:
+      213: -1678114337223047243
+    second: Menu Bar_40
+  - first:
+      213: 2478585257369781673
+    second: Menu Bar_41
+  - first:
+      213: -8078002690998476087
+    second: Menu Bar_42
+  - first:
+      213: -1125845809072890844
+    second: Menu Bar_43
+  - first:
+      213: 7357444455379134125
+    second: Menu Bar_44
+  - first:
+      213: -7056298582422655105
+    second: Menu Bar_45
+  - first:
+      213: 3917462736545143580
+    second: Menu Bar_46
+  - first:
+      213: 1295306825765580057
+    second: Menu Bar_47
+  - first:
+      213: 5656889954140571513
+    second: Menu Bar_48
+  - first:
+      213: -631869950327308093
+    second: Menu Bar_49
+  - first:
+      213: -2440731464608331203
+    second: Menu Bar_50
+  - first:
+      213: -7164206273711024721
+    second: Menu Bar_51
+  - first:
+      213: 4632413764146639036
+    second: Menu Bar_52
+  - first:
+      213: 4214370567660485605
+    second: Menu Bar_53
+  - first:
+      213: 3912807796952413746
+    second: Menu Bar_54
+  - first:
+      213: 6290571303332350927
+    second: Menu Bar_55
+  - first:
+      213: -4471155089911011072
+    second: Menu Bar_56
+  - first:
+      213: -5535482973361506054
+    second: Menu Bar_57
+  - first:
+      213: 2913376834323685974
+    second: Menu Bar_58
+  - first:
+      213: 997074328502090051
+    second: Menu Bar_59
+  - first:
+      213: -3586606801417070371
+    second: Menu Bar_60
+  - first:
+      213: 8410318016689821637
+    second: Menu Bar_61
+  - first:
+      213: -1840688141577146312
+    second: Menu Bar_62
+  - first:
+      213: 4755607785478619107
+    second: Menu Bar_63
+  - first:
+      213: -4425602498620523967
+    second: Menu Bar_64
+  - first:
+      213: -2088050744170227416
+    second: Menu Bar_65
+  - first:
+      213: 1928984193781381254
+    second: Menu Bar_66
+  - first:
+      213: -2434677106701579696
+    second: Menu Bar_67
+  - first:
+      213: 8407738218657246665
+    second: Menu Bar_68
+  - first:
+      213: -2979036205385782232
+    second: Menu Bar_69
+  - first:
+      213: -2498877637035207550
+    second: Menu Bar_70
+  - first:
+      213: -3614269487496426130
+    second: Menu Bar_71
+  - first:
+      213: 520153849049513021
+    second: Menu Bar_72
+  - first:
+      213: 1370195090188657219
+    second: Menu Bar_73
+  - first:
+      213: 2832349233064194602
+    second: Menu Bar_74
+  - first:
+      213: 1467135264913204037
+    second: Menu Bar_75
+  - first:
+      213: 6265877123266460173
+    second: Menu Bar_76
+  - first:
+      213: -8013012378836226608
+    second: Menu Bar_77
+  - first:
+      213: 4986596413649347199
+    second: Menu Bar_78
+  - first:
+      213: -6592733845397551035
+    second: Menu Bar_79
+  - first:
+      213: -4787429578259379697
+    second: Menu Bar_80
+  - first:
+      213: -3014660490332238387
+    second: Menu Bar_81
+  - first:
+      213: 3716929755829812837
+    second: Menu Bar_82
+  - first:
+      213: 7784286686036080316
+    second: Menu Bar_83
+  - first:
+      213: -621559319374799908
+    second: Menu Bar_84
+  - first:
+      213: 2728819446621115719
+    second: Menu Bar_85
+  - first:
+      213: 2468898240462117649
+    second: Menu Bar_86
+  - first:
+      213: -1309711842757160183
+    second: Menu Bar_87
+  - first:
+      213: 7325759216760889397
+    second: Menu Bar_88
+  - first:
+      213: -8147275794300290282
+    second: Menu Bar_89
+  - first:
+      213: 3040913072521085787
+    second: Menu Bar_90
+  - first:
+      213: 5364398024930666897
+    second: Menu Bar_91
+  - first:
+      213: 1569547232570981294
+    second: Menu Bar_92
+  - first:
+      213: 5360374938734042494
+    second: Menu Bar_93
+  - first:
+      213: 3704323817898600582
+    second: Menu Bar_94
+  - first:
+      213: -6888263672816595936
+    second: Menu Bar_95
+  - first:
+      213: 2998678414080680169
+    second: Menu Bar_96
+  - first:
+      213: -952729452583842219
+    second: Menu Bar_97
+  - first:
+      213: 3076612859552250239
+    second: Menu Bar_98
+  - first:
+      213: 4529750456652081328
+    second: Menu Bar_99
+  - first:
+      213: 6942419612540305062
+    second: Menu Bar_100
+  - first:
+      213: 6685217061618135858
+    second: Menu Bar_101
+  - first:
+      213: 5035018462389439625
+    second: Menu Bar_102
+  - first:
+      213: 726355707083847609
+    second: Menu Bar_103
+  - first:
+      213: -6938527712902745408
+    second: Menu Bar_104
+  - first:
+      213: 4296345617658851061
+    second: Menu Bar_105
+  - first:
+      213: -540596566744497815
+    second: Menu Bar_106
+  - first:
+      213: 5822010107251192585
+    second: Menu Bar_107
+  - first:
+      213: -5991739191220543831
+    second: Menu Bar_108
+  - first:
+      213: 2062843213847662044
+    second: Menu Bar_109
+  - first:
+      213: -1864844374614953072
+    second: Menu Bar_110
+  - first:
+      213: -2676541416906264276
+    second: Menu Bar_111
+  - first:
+      213: -7359726586371457809
+    second: Menu Bar_112
+  - first:
+      213: -3147254923819230823
+    second: Menu Bar_113
+  - first:
+      213: -3834366447556484285
+    second: Menu Bar_114
+  - first:
+      213: 1033091015384735473
+    second: Menu Bar_115
+  - first:
+      213: -8165896912287473553
+    second: Menu Bar_116
+  - first:
+      213: 6657809963087442335
+    second: Menu Bar_117
+  - first:
+      213: -105322430001908497
+    second: Menu Bar_118
+  - first:
+      213: 7750511489402556720
+    second: Menu Bar_119
+  - first:
+      213: 1793508074835580840
+    second: Menu Bar_120
+  - first:
+      213: 6251531932650907960
+    second: Menu Bar_121
+  - first:
+      213: -5497382339251047627
+    second: Menu Bar_122
+  - first:
+      213: 6016563795066809792
+    second: Menu Bar_123
+  - first:
+      213: -9191484181976814961
+    second: Menu Bar_124
+  - first:
+      213: 6184544233020980618
+    second: Menu Bar_125
+  - first:
+      213: -764034169758337214
+    second: Menu Bar_126
+  - first:
+      213: -3185279917828021832
+    second: Menu Bar_127
+  - first:
+      213: -6254777267128821771
+    second: Menu Bar_128
+  - first:
+      213: -282481924368898666
+    second: Menu Bar_129
+  - first:
+      213: -5711385467604722268
+    second: Menu Bar_130
+  - first:
+      213: 5540815968023262986
+    second: Menu Bar_131
+  - first:
+      213: -6969566034216198158
+    second: Menu Bar_132
+  - first:
+      213: -1187149224456010840
+    second: Menu Bar_133
+  - first:
+      213: -8685098548364506822
+    second: Menu Bar_134
+  - first:
+      213: 8011655362890582490
+    second: Menu Bar_135
+  - first:
+      213: -7876295263705562210
+    second: Menu Bar_136
+  - first:
+      213: 5871783051871181820
+    second: Menu Bar_137
+  - first:
+      213: -1407141573347126310
+    second: Menu Bar_138
+  - first:
+      213: -5875597832861137239
+    second: Menu Bar_139
+  - first:
+      213: 8260849057398822223
+    second: Menu Bar_140
+  - first:
+      213: -4159729862035927995
+    second: Menu Bar_141
+  - first:
+      213: 2444690293587200757
+    second: Menu Bar_142
+  - first:
+      213: 6327908703500739208
+    second: Menu Bar_143
+  - first:
+      213: -4079925604028009134
+    second: Menu Bar_144
+  - first:
+      213: -8335964046499371363
+    second: Menu Bar_145
+  - first:
+      213: 4107228329061228303
+    second: Menu Bar_146
+  - first:
+      213: -1731878184368821881
+    second: Menu Bar_147
+  - first:
+      213: -8940828914665530404
+    second: Menu Bar_148
+  - first:
+      213: 5743761802612475405
+    second: Menu Bar_149
+  - first:
+      213: -1995449032862479197
+    second: Menu Bar_150
+  - first:
+      213: -2626697345514850577
+    second: Menu Bar_151
+  - first:
+      213: -2208867832947312518
+    second: Menu Bar_152
+  - first:
+      213: -1998328717368220633
+    second: Menu Bar_153
+  - first:
+      213: 1684891265430600581
+    second: Menu Bar_154
+  - first:
+      213: 4230952133432673557
+    second: Menu Bar_155
+  - first:
+      213: -3393481021710239480
+    second: Menu Bar_156
+  - first:
+      213: -4181062427569158477
+    second: Menu Bar_157
+  - first:
+      213: 1124206488546599925
+    second: Menu Bar_158
+  - first:
+      213: 2898490100777779441
+    second: Menu Bar_159
+  - first:
+      213: -3367879494568471437
+    second: Menu Bar_160
+  - first:
+      213: -1994153650517751134
+    second: Menu Bar_161
+  - first:
+      213: -6091176559015310504
+    second: Menu Bar_162
+  - first:
+      213: -8900869762462401029
+    second: Menu Bar_163
+  - first:
+      213: 863524015910015958
+    second: Menu Bar_164
+  - first:
+      213: 3719221937902288953
+    second: Menu Bar_165
+  - first:
+      213: -4625723298045731642
+    second: Menu Bar_166
+  - first:
+      213: 5362230998171735734
+    second: Menu Bar_167
+  - first:
+      213: 9198014082076739222
+    second: Menu Bar_168
+  - first:
+      213: 3224071148161816884
+    second: Menu Bar_169
+  - first:
+      213: -4913141167195788806
+    second: Menu Bar_170
+  - first:
+      213: 4427921675283507939
+    second: Menu Bar_171
+  - first:
+      213: 2992744605553744114
+    second: Menu Bar_172
+  - first:
+      213: 9216810815868074401
+    second: Menu Bar_173
+  - first:
+      213: -3137051087112684465
+    second: Menu Bar_174
+  - first:
+      213: 1053362110944188217
+    second: Menu Bar_175
+  - first:
+      213: 3580328247435832440
+    second: Menu Bar_176
+  - first:
+      213: 279612630074393566
+    second: Menu Bar_177
+  - first:
+      213: 5341701802701041217
+    second: Menu Bar_178
+  - first:
+      213: -4963525304523363010
+    second: Menu Bar_179
+  - first:
+      213: 845512647279580985
+    second: Menu Bar_180
+  - first:
+      213: 5826344709549382626
+    second: Menu Bar_181
+  - first:
+      213: 8395255265023988432
+    second: Menu Bar_182
+  - first:
+      213: -6312089740055282969
+    second: Menu Bar_183
+  - first:
+      213: -1063004615141181989
+    second: Menu Bar_184
+  - first:
+      213: 4442882322613570216
+    second: Menu Bar_185
+  - first:
+      213: 126355170764852924
+    second: Menu Bar_186
+  - first:
+      213: -8400534749314992730
+    second: Menu Bar_187
+  - first:
+      213: -8927576070013007215
+    second: Menu Bar_188
+  - first:
+      213: -3833761161379584885
+    second: Menu Bar_189
+  - first:
+      213: -8351668728026766439
+    second: Menu Bar_190
+  - first:
+      213: 4137709569326923371
+    second: Menu Bar_191
+  - first:
+      213: -5753635346499604518
+    second: Menu Bar_192
+  - first:
+      213: 5703649234901820976
+    second: Menu Bar_193
+  - first:
+      213: 5723409609535861527
+    second: Menu Bar_194
+  - first:
+      213: -3271123395618278184
+    second: Menu Bar_195
+  - first:
+      213: -4879599617690477934
+    second: Menu Bar_196
+  - first:
+      213: -691054448144023514
+    second: Menu Bar_197
+  - first:
+      213: -1005024324263981997
+    second: Menu Bar_198
+  - first:
+      213: -1073088382811412276
+    second: Menu Bar_199
+  - first:
+      213: 3158707505842851178
+    second: Menu Bar_200
+  - first:
+      213: 8415594434774268799
+    second: Menu Bar_201
+  - first:
+      213: 2633196166193062952
+    second: Menu Bar_202
+  - first:
+      213: 2292948556671190290
+    second: Menu Bar_203
+  - first:
+      213: 7813220790078107599
+    second: Menu Bar_204
+  - first:
+      213: -4090609620667463395
+    second: Menu Bar_205
+  - first:
+      213: -6144678508708433034
+    second: Menu Bar_206
+  - first:
+      213: 2354999472143717516
+    second: Menu Bar_207
+  - first:
+      213: -1883230527003733122
+    second: Menu Bar_208
+  - first:
+      213: 7704983090349642482
+    second: Menu Bar_209
+  - first:
+      213: 6888414515135344115
+    second: Menu Bar_210
+  - first:
+      213: -8641085805821707994
+    second: Menu Bar_211
+  - first:
+      213: 5422324359119988818
+    second: Menu Bar_212
+  - first:
+      213: -6780071667587703594
+    second: Menu Bar_213
+  - first:
+      213: 700965972692329824
+    second: Menu Bar_214
+  - first:
+      213: -7855773676045964351
+    second: Menu Bar_215
+  - first:
+      213: -2826520340819296985
+    second: Menu Bar_216
+  - first:
+      213: 6329466635980189161
+    second: Menu Bar_217
+  - first:
+      213: -6208396846305844907
+    second: Menu Bar_218
+  - first:
+      213: 4764640391049688712
+    second: Menu Bar_219
+  - first:
+      213: -2593658128060996143
+    second: Menu Bar_220
+  - first:
+      213: 7965515095879807104
+    second: Menu Bar_221
+  - first:
+      213: -2139594984600799
+    second: Menu Bar_222
+  - first:
+      213: -7709693093183786748
+    second: Menu Bar_223
+  - first:
+      213: -6768541898211666161
+    second: Menu Bar_224
+  - first:
+      213: 1954091136655460776
+    second: Menu Bar_225
+  - first:
+      213: 6896702778374956826
+    second: Menu Bar_226
+  - first:
+      213: -7164656920212024547
+    second: Menu Bar_227
+  - first:
+      213: -6979174000470226224
+    second: Menu Bar_228
+  - first:
+      213: 4512391840054576264
+    second: Menu Bar_229
+  - first:
+      213: -7699643773803786958
+    second: Menu Bar_230
+  - first:
+      213: -3983003388271413514
+    second: Menu Bar_231
+  - first:
+      213: -6343374972356289627
+    second: Menu Bar_232
+  - first:
+      213: 781066668060296610
+    second: Menu Bar_233
+  - first:
+      213: -5759592722421166479
+    second: Menu Bar_234
+  - first:
+      213: 8574184885204130065
+    second: Menu Bar_235
+  - first:
+      213: -2920955745425800117
+    second: Menu Bar_236
+  - first:
+      213: 6937005106057230436
+    second: Menu Bar_237
+  - first:
+      213: 8808852491213452523
+    second: Menu Bar_238
+  - first:
+      213: 501240245983233283
+    second: Menu Bar_239
+  - first:
+      213: 2478659776142536027
+    second: Menu Bar_240
+  - first:
+      213: -884390918372946813
+    second: Menu Bar_241
+  - first:
+      213: -8652148068292850579
+    second: Menu Bar_242
+  - first:
+      213: 6502402748370454452
+    second: Menu Bar_243
+  - first:
+      213: -1304119578861475858
+    second: Menu Bar_244
+  - first:
+      213: -8630690821839992486
+    second: Menu Bar_245
+  - first:
+      213: 6106746281677648134
+    second: Menu Bar_246
+  - first:
+      213: -8778018739946064313
+    second: Menu Bar_247
+  - first:
+      213: 12273752025633244
+    second: Menu Bar_248
+  - first:
+      213: -5864565577187251976
+    second: Menu Bar_249
+  - first:
+      213: 4276976594128694572
+    second: Menu Bar_250
+  - first:
+      213: -957420890292455132
+    second: Menu Bar_251
+  - first:
+      213: 1806510592487333618
+    second: Menu Bar_252
+  - first:
+      213: 3759766154236532264
+    second: Menu Bar_253
+  - first:
+      213: 4315178762035737269
+    second: Menu Bar_254
+  - first:
+      213: -2621463929163403979
+    second: Menu Bar_255
+  - first:
+      213: 1224610366422274842
+    second: Menu Bar_256
+  - first:
+      213: -3588465218109110941
+    second: Menu Bar_257
+  - first:
+      213: -6516654355322429126
+    second: Menu Bar_258
+  - first:
+      213: -51185991351514794
+    second: Menu Bar_259
+  - first:
+      213: 8174817641489488240
+    second: Menu Bar_260
+  - first:
+      213: -8289347596576300596
+    second: Menu Bar_261
+  - first:
+      213: -7985504970326983194
+    second: Menu Bar_262
+  - first:
+      213: -5694957362875592483
+    second: Menu Bar_263
+  - first:
+      213: -5058324417116051704
+    second: Menu Bar_264
+  - first:
+      213: -6929914915823081999
+    second: Menu Bar_265
+  - first:
+      213: -2409771651967650024
+    second: Menu Bar_266
+  - first:
+      213: 1580427650738467935
+    second: Menu Bar_267
+  - first:
+      213: -1269437904011996159
+    second: Menu Bar_268
+  - first:
+      213: 4875647895570623500
+    second: Menu Bar_269
+  - first:
+      213: -8340222320504580639
+    second: Menu Bar_270
+  - first:
+      213: 5751805344344862733
+    second: Menu Bar_271
+  - first:
+      213: 181490723689660609
+    second: Menu Bar_272
+  - first:
+      213: -369585761825034773
+    second: Menu Bar_273
+  - first:
+      213: 9075787622460923866
+    second: Menu Bar_274
+  - first:
+      213: 4887979726384750321
+    second: Menu Bar_275
+  - first:
+      213: 1686364094143074005
+    second: Menu Bar_276
+  - first:
+      213: 3982969781746858972
+    second: Menu Bar_277
+  - first:
+      213: 7459841139082463928
+    second: Menu Bar_278
+  - first:
+      213: 6299413562494722543
+    second: Menu Bar_279
+  - first:
+      213: 8474818579516693238
+    second: Menu Bar_280
+  - first:
+      213: 871504207340671991
+    second: Menu Bar_281
+  - first:
+      213: -9002447418057823197
+    second: Menu Bar_282
+  - first:
+      213: -3785748196449813492
+    second: Menu Bar_283
+  - first:
+      213: 5902607626023030777
+    second: Menu Bar_284
+  - first:
+      213: -1657593666516801287
+    second: Menu Bar_285
+  - first:
+      213: -5452048900798489378
+    second: Menu Bar_286
+  - first:
+      213: -4190735351919100666
+    second: Menu Bar_287
+  - first:
+      213: -3067512376933449403
+    second: Menu Bar_288
+  - first:
+      213: -666098032452061178
+    second: Menu Bar_289
+  - first:
+      213: 2793253562194720018
+    second: Menu Bar_290
+  - first:
+      213: -5700098650176422916
+    second: Menu Bar_291
+  - first:
+      213: 213459815000094815
+    second: Menu Bar_292
+  - first:
+      213: 8762648890039771947
+    second: Menu Bar_293
+  - first:
+      213: -7229624188455002295
+    second: Menu Bar_294
+  - first:
+      213: -6293749878407870856
+    second: Menu Bar_295
+  - first:
+      213: 8436353571760432083
+    second: Menu Bar_296
+  - first:
+      213: -6970750381556129503
+    second: Menu Bar_297
+  - first:
+      213: 3851408464335881510
+    second: Menu Bar_298
+  - first:
+      213: 6793588893588007195
+    second: Menu Bar_299
+  - first:
+      213: -4074975999240332307
+    second: Menu Bar_300
+  - first:
+      213: -4241731312908180460
+    second: Menu Bar_301
+  - first:
+      213: 4462367683460157966
+    second: Menu Bar_302
+  - first:
+      213: 2934757815070646576
+    second: Menu Bar_303
+  - first:
+      213: 314089015033422768
+    second: Menu Bar_304
+  - first:
+      213: -707053725456337405
+    second: Menu Bar_305
+  - first:
+      213: -8736976024004094429
+    second: Menu Bar_306
+  - first:
+      213: -5408163942858142111
+    second: Menu Bar_307
+  - first:
+      213: 8181444484629993802
+    second: Menu Bar_308
+  - first:
+      213: -5302077342024704072
+    second: Menu Bar_309
+  - first:
+      213: 1660666202492152466
+    second: Menu Bar_310
+  - first:
+      213: -2281945050238294069
+    second: Menu Bar_311
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu Bar_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 635
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e34b3f9637e5d160800000000000000
+      internalID: 7049795013504091112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 624
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefeb2132fa8d0d90800000000000000
+      internalID: -7129889862245945361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 634
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebaac19da7343b40800000000000000
+      internalID: 5419017470248397798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 648
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b526a1dc48af3fc0800000000000000
+      internalID: -3512904136437389896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 624
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68195937fda602eb0800000000000000
+      internalID: -4746676499299069562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 621
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5a3c96d0cc5d10800000000000000
+      internalID: 2115777952933894846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 635
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41153afe2c6f4d570800000000000000
+      internalID: 8490682514604773652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 624
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d3aa587266ad300800000000000000
+      internalID: 277646646968991113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 634
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3ce3de34e803960800000000000000
+      internalID: 7579714595258811368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 648
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef389748a47051ff0800000000000000
+      internalID: -66138602895473666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 624
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a200f478d8453a850800000000000000
+      internalID: 6387041663378718762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 621
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8a1ad2017dbca0800000000000000
+      internalID: -5999514871524586422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 635
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f1d41e1d870dd90800000000000000
+      internalID: -7075022171775623404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 624
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a536be41b12c5c80800000000000000
+      internalID: -8332748165128768093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 634
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd862aa65601fa1f0800000000000000
+      internalID: -1031587761877784356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 648
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3451df776e5765a90800000000000000
+      internalID: -7325538111155530429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 624
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120b0872a0fd52de0800000000000000
+      internalID: -1358434477876924383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 621
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a01ebfe4dd026f10800000000000000
+      internalID: 2261385171099848868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 621
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c8ede704aa56e80800000000000000
+      internalID: -8185949553692865503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 621
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5256b45f23b3f890800000000000000
+      internalID: -7425394344737746337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 621
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999cfe0e8fc9e8590800000000000000
+      internalID: -7670020522625742439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 606
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3bffea036402c80800000000000000
+      internalID: -8349596534236531778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 596
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd294065b5cf520800000000000000
+      internalID: 2737163098536467449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 603
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e700a74eae3c1f0800000000000000
+      internalID: -1025718023090045357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 607
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e25cb93c25717370800000000000000
+      internalID: 8318558819537670883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 590
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98fd8f6ae6590ee0800000000000000
+      internalID: -1294407852998395746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 588
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a145db14e24e5aa70800000000000000
+      internalID: 8837720731107021850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 606
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383454d10b7e1ddf0800000000000000
+      internalID: -157089768389917821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 596
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d953442ae32dd5450800000000000000
+      internalID: 6079246238472222109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 603
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d35bd14f6129f740800000000000000
+      internalID: 5186213207623816149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 607
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c211b0294d9d700800000000000000
+      internalID: 565716951927696438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 590
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec58fa454ec025b0800000000000000
+      internalID: -5395085556583998234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 588
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b5e88cc329d860800000000000000
+      internalID: 7555109211267772804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_33
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 606
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4cf9b54e4526390800000000000000
+      internalID: -7826599862650026803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 596
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711ceb099a79e79e0800000000000000
+      internalID: -1621692061273112297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 603
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54ee22fa1f6bdf0800000000000000
+      internalID: -164678601844832837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 607
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fe39dbb31383340800000000000000
+      internalID: 4843675531890388742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 590
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9fe72f7a6378ce0800000000000000
+      internalID: -1403092663946774109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 588
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e607af5abe060c30800000000000000
+      internalID: 4325160685767427808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 551
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c186f4958761e45e0800000000000000
+      internalID: -1923575284690360292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 540
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7845db6e326b8e0800000000000000
+      internalID: -1678114337223047243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 550
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5cb03d824b56220800000000000000
+      internalID: 2478585257369781673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 564
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2e2640a5b25ef80800000000000000
+      internalID: -8078002690998476087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_43
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 540
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c195e93313060f0800000000000000
+      internalID: -1125845809072890844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 537
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da66a8130c4ea1660800000000000000
+      internalID: 7357444455379134125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 551
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fea9d33ddf21e90800000000000000
+      internalID: -7056298582422655105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 540
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b5a907a9f9d5630800000000000000
+      internalID: 3917462736545143580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_47
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 550
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d65e8f1bad9f110800000000000000
+      internalID: 1295306825765580057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 564
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977460a117f418e40800000000000000
+      internalID: 5656889954140571513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 540
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c04f72c0a52b37f0800000000000000
+      internalID: -631869950327308093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 537
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ac6eb1aa7c02ed0800000000000000
+      internalID: -2440731464608331203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 551
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa554d50a50a39c90800000000000000
+      internalID: -7164206273711024721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_52
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 540
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0379066c3a94040800000000000000
+      internalID: 4632413764146639036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_53
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 550
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebb34dd3b37c7a30800000000000000
+      internalID: 4214370567660485605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_54
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 564
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2363abbd5f51d4630800000000000000
+      internalID: 3912807796952413746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 540
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb046185499c4750800000000000000
+      internalID: 6290571303332350927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_56
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 537
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009ac2a822443f1c0800000000000000
+      internalID: -4471155089911011072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_57
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 537
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8709060930e23b0800000000000000
+      internalID: -5535482973361506054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 537
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65227ba8bc46e6820800000000000000
+      internalID: 2913376834323685974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_59
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 537
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349370da1d156dd00800000000000000
+      internalID: 997074328502090051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_60
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 522
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd81984ed10d93ec0800000000000000
+      internalID: -3586606801417070371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 512
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c75dd82da377b470800000000000000
+      internalID: 8410318016689821637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_62
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 519
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830350b33ef8476e0800000000000000
+      internalID: -1840688141577146312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 523
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eff888a5105ff140800000000000000
+      internalID: 4755607785478619107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 506
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a74a0b9f91592c0800000000000000
+      internalID: -4425602498620523967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_65
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 504
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295eb049e0c503e0800000000000000
+      internalID: -2088050744170227416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_66
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 522
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688beaf67e025ca10800000000000000
+      internalID: 1928984193781381254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_67
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 512
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ac648221a463ed0800000000000000
+      internalID: -2434677106701579696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 519
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd6a8f1d594ea470800000000000000
+      internalID: 8407738218657246665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 523
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ce3f4da5658a6d0800000000000000
+      internalID: -2979036205385782232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_70
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 506
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284595b5704325dd0800000000000000
+      internalID: -2498877637035207550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_71
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 504
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d0e33ec0987ddc0800000000000000
+      internalID: -3614269487496426130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_72
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 522
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cf5297b25f73700800000000000000
+      internalID: 520153849049513021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_73
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 512
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342eda7cc29e30310800000000000000
+      internalID: 1370195090188657219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_74
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 519
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2234acfe968e4720800000000000000
+      internalID: 2832349233064194602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_75
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 523
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543a99e00cf4c5410800000000000000
+      internalID: 1467135264913204037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 506
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a3b8aab0ed4f650800000000000000
+      internalID: 6265877123266460173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dda8aa32bf0cc090800000000000000
+      internalID: -8013012378836226608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 470
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f726ec1a403f33540800000000000000
+      internalID: 4986596413649347199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 459
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54842665f77e184a0800000000000000
+      internalID: -6592733845397551035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 469
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac6a8d922af8db0800000000000000
+      internalID: -4787429578259379697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 483
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd8753a146c926d0800000000000000
+      internalID: -3014660490332238387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 459
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eb0577bef259330800000000000000
+      internalID: 3716929755829812837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_83
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 456
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6bbfe7f77570c60800000000000000
+      internalID: 7784286686036080316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 470
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd4d99717cf57f0800000000000000
+      internalID: -621559319374799908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_85
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 459
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745970c24d6bed520800000000000000
+      internalID: 2728819446621115719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_86
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 469
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd4517ed9434220800000000000000
+      internalID: 2468898240462117649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 483
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9035656a408f2dde0800000000000000
+      internalID: -1309711842757160183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 459
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530a311b1335aa560800000000000000
+      internalID: 7325759216760889397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_89
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 456
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb799c4df0fee80800000000000000
+      internalID: -8147275794300290282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_90
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 470
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b530678f35e733a20800000000000000
+      internalID: 3040913072521085787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_91
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 459
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199acc5f49b227a40800000000000000
+      internalID: 5364398024930666897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_92
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 469
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab379764e628c510800000000000000
+      internalID: 1569547232570981294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_93
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 483
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d16263b90e36a40800000000000000
+      internalID: 5360374938734042494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_94
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 459
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6886dd2d2e6686330800000000000000
+      internalID: 3704323817898600582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_95
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 456
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c0a866fa8f760a0800000000000000
+      internalID: -6888263672816595936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_96
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 456
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e029e241227d9920800000000000000
+      internalID: 2998678414080680169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 456
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e00b35c9937c2f0800000000000000
+      internalID: -952729452583842219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_98
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 456
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79b20d581352ba20800000000000000
+      internalID: 3076612859552250239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_99
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 441
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b829e96a08ecde30800000000000000
+      internalID: 4529750456652081328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_100
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 431
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae7b27eadd685060800000000000000
+      internalID: 6942419612540305062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_101
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 438
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233312c6f79a6cc50800000000000000
+      internalID: 6685217061618135858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_102
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 442
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c81486d9affd540800000000000000
+      internalID: 5035018462389439625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 425
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b77f4dcaa8841a00800000000000000
+      internalID: 726355707083847609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_104
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 423
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c27a389ec565bf90800000000000000
+      internalID: -6938527712902745408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_105
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 441
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feacd4839faf9b30800000000000000
+      internalID: 4296345617658851061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_106
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 431
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9610668694a6f78f0800000000000000
+      internalID: -540596566744497815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_107
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 438
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903f071a85febc050800000000000000
+      internalID: 5822010107251192585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 442
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae538083f019dca0800000000000000
+      internalID: -5991739191220543831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_109
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 425
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd07bc39f0b0ac10800000000000000
+      internalID: 2062843213847662044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_110
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 423
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093b0b1fbedbe16e0800000000000000
+      internalID: -1864844374614953072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_111
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 441
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c217ea223c30bdad0800000000000000
+      internalID: -2676541416906264276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_112
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 431
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecb457c9affcd990800000000000000
+      internalID: -7359726586371457809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_113
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 438
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d7285254b254d0800000000000000
+      internalID: -3147254923819230823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_114
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 442
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34328b2080899cac0800000000000000
+      internalID: -3834366447556484285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 425
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe97a01ec6465e00800000000000000
+      internalID: 1033091015384735473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_116
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 423
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6065a6e508ecae80800000000000000
+      internalID: -8165896912287473553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_117
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 386
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9132e703ea456c50800000000000000
+      internalID: 6657809963087442335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 375
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4fad4dec1d98ef0800000000000000
+      internalID: -105322430001908497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_119
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 385
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0315c69b2295f8b60800000000000000
+      internalID: 7750511489402556720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_120
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 399
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a79e567712d3e810800000000000000
+      internalID: 1793508074835580840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_121
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 375
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8392ba3bb27e1c650800000000000000
+      internalID: 6251531932650907960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_122
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 372
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5337f6a83ef55b3b0800000000000000
+      internalID: -5497382339251047627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 386
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdee6df4e02f7350800000000000000
+      internalID: 6016563795066809792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_124
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 375
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a66a6c5d9417080800000000000000
+      internalID: -9191484181976814961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_125
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 385
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8df7ea763ae3d550800000000000000
+      internalID: 6184544233020980618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 399
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2473b4b78fa9565f0800000000000000
+      internalID: -764034169758337214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_127
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 375
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1eca38acc9bc3d0800000000000000
+      internalID: -3185279917828021832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_128
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 372
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7199bf6319239a0800000000000000
+      internalID: -6254777267128821771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_129
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 386
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695e58abf2c641cf0800000000000000
+      internalID: -282481924368898666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_130
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 375
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad971c6d251db0b0800000000000000
+      internalID: -5711385467604722268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_131
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 385
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b6d334cee4ec40800000000000000
+      internalID: 5540815968023262986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_132
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 399
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5ae34e90274f90800000000000000
+      internalID: -6969566034216198158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_133
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 375
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34be4f116668fe0800000000000000
+      internalID: -1187149224456010840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_134
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 372
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a390979c2e4587780800000000000000
+      internalID: -8685098548364506822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_135
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 372
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad942ffda1e1f2f60800000000000000
+      internalID: 8011655362890582490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_136
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 372
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e930db42037c1b290800000000000000
+      internalID: -7876295263705562210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_137
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 372
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbd0fc5393cc7150800000000000000
+      internalID: 5871783051871181820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_138
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 357
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d5f3c134d87ce0800000000000000
+      internalID: -1407141573347126310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_139
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 347
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6c149b6eea57ea0800000000000000
+      internalID: -5875597832861137239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_140
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 354
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f459069237e64a270800000000000000
+      internalID: 8260849057398822223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_141
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 358
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c83cbcabba546c0800000000000000
+      internalID: -4159729862035927995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 341
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa4c179ed84de120800000000000000
+      internalID: 2444690293587200757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_143
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 339
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882a34b607f31d750800000000000000
+      internalID: 6327908703500739208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_144
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 357
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255b3ed87413167c0800000000000000
+      internalID: -4079925604028009134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_145
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 347
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d962af39dd4b05c80800000000000000
+      internalID: -8335964046499371363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_146
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 354
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f9d1d776ecff830800000000000000
+      internalID: 4107228329061228303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 358
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789a27a97f127f7e0800000000000000
+      internalID: -1731878184368821881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_148
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 341
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd1dff87bcbe380800000000000000
+      internalID: -8940828914665530404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_149
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 339
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d068c2f7de0f5bf40800000000000000
+      internalID: 5743761802612475405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_150
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 357
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc5dc4dadbe44e0800000000000000
+      internalID: -1995449032862479197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_151
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 347
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6302c5ea81c8bd0800000000000000
+      internalID: -2626697345514850577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_152
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 354
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a787365b8668851e0800000000000000
+      internalID: -2208867832947312518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_153
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 358
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7242ec08e928444e0800000000000000
+      internalID: -1998328717368220633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 341
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b3621ddafe16710800000000000000
+      internalID: 1684891265430600581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_155
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 339
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5158fee7c8c57ba30800000000000000
+      internalID: 4230952133432673557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_156
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 303
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8097eec7dfee7e0d0800000000000000
+      internalID: -3393481021710239480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_157
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 292
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b60205dfd1e9f5c0800000000000000
+      internalID: -4181062427569158477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_158
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 302
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3620458dbf99f00800000000000000
+      internalID: 1124206488546599925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_159
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 316
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f088d9c361893820800000000000000
+      internalID: 2898490100777779441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_160
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 292
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3749ce78173e241d0800000000000000
+      internalID: -3367879494568471437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_161
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 289
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa475102d75354e0800000000000000
+      internalID: -1994153650517751134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_162
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 303
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bc4b7213bc77ba0800000000000000
+      internalID: -6091176559015310504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_163
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 292
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb9602c12c97480800000000000000
+      internalID: -8900869762462401029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_164
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 302
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3d55f648adbfb00800000000000000
+      internalID: 863524015910015958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 316
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308181b5a45d9330800000000000000
+      internalID: 3719221937902288953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_166
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 292
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc5cb62b212ecfb0800000000000000
+      internalID: -4625723298045731642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_167
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 289
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b65d99bea87a6a40800000000000000
+      internalID: 5362230998171735734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_168
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 303
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69689311319e5af70800000000000000
+      internalID: 9198014082076739222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_169
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 292
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43955cc90a33ebc20800000000000000
+      internalID: 3224071148161816884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_170
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 302
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af962fda32401dbb0800000000000000
+      internalID: -4913141167195788806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_171
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 316
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaa684bd43237d30800000000000000
+      internalID: 4427921675283507939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_172
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 292
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f85f7dcc5d588920800000000000000
+      internalID: 2992744605553744114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_173
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 289
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a97bc1ba90b8ef70800000000000000
+      internalID: 9216810815868074401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_174
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 289
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c356638a4f674d0800000000000000
+      internalID: -3137051087112684465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_175
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 289
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9371faa424b4e9e00800000000000000
+      internalID: 1053362110944188217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_176
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 289
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ca5b75291efa130800000000000000
+      internalID: 3580328247435832440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_177
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 274
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed30c42a43261e300800000000000000
+      internalID: 279612630074393566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_178
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 264
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e2f0eec79812a40800000000000000
+      internalID: 5341701802701041217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_179
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 271
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3de83e88040e1bb0800000000000000
+      internalID: -4963525304523363010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_180
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 275
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9371332e54ddbbb00800000000000000
+      internalID: 845512647279580985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_181
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebdaafd4a55bd050800000000000000
+      internalID: 5826344709549382626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_182
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 256
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d29b7efe20f18470800000000000000
+      internalID: 8395255265023988432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 274
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eafd9503d3f668a0800000000000000
+      internalID: -6312089740055282969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_184
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 264
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5b8ef3fe27f31f0800000000000000
+      internalID: -1063004615141181989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_185
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 271
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa8e3adee948ad30800000000000000
+      internalID: 4442882322613570216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_186
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 275
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe09fcbb57e0c100800000000000000
+      internalID: 126355170764852924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_187
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 258
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a531c7472e4b6b80800000000000000
+      internalID: -8400534749314992730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_188
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 256
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ac8995dd0ea1480800000000000000
+      internalID: -8927576070013007215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_189
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 274
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84e74e298ebbcac0800000000000000
+      internalID: -3833761161379584885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_190
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 264
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993e9387a89e81c80800000000000000
+      internalID: -8351668728026766439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_191
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 271
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e37774ee81c6930800000000000000
+      internalID: 4137709569326923371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_192
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 275
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf62cce22bf620b0800000000000000
+      internalID: -5753635346499604518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_193
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 258
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03660c982ce672f40800000000000000
+      internalID: 5703649234901820976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_194
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 256
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713317847b2ad6f40800000000000000
+      internalID: 5723409609535861527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_195
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 219
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4f3b35a92aa92d0800000000000000
+      internalID: -3271123395618278184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_196
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 208
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a5d6d300e284cb0800000000000000
+      internalID: -4879599617690477934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_197
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 218
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6200ce904a1e866f0800000000000000
+      internalID: -691054448144023514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_198
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 232
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c4e91b3bf6d02f0800000000000000
+      internalID: -1005024324263981997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_199
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 208
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc86de12dcf9b11f0800000000000000
+      internalID: -1073088382811412276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_200
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 205
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d8f13bdbbf5db20800000000000000
+      internalID: 3158707505842851178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_201
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 219
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b797afc823ac470800000000000000
+      internalID: 8415594434774268799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_202
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 208
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824abdd36fdfa8420800000000000000
+      internalID: 2633196166193062952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_203
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 218
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21581a0509032df10800000000000000
+      internalID: 2292948556671190290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 232
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf6d4099e22e6c60800000000000000
+      internalID: 7813220790078107599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_205
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d190255193c3b37c0800000000000000
+      internalID: -4090609620667463395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_206
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 205
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673f475c377b9baa0800000000000000
+      internalID: -6144678508708433034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_207
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 219
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84db57ea83aea020800000000000000
+      internalID: 2354999472143717516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_208
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 208
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7355cf30db6dd5e0800000000000000
+      internalID: -1883230527003733122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_209
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 218
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f29ea44c499dea60800000000000000
+      internalID: 7704983090349642482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_210
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 232
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd69405180989f50800000000000000
+      internalID: 6888414515135344115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_211
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 208
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b356fd32b41880800000000000000
+      internalID: -8641085805821707994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_212
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 205
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2586b42a647ff3b40800000000000000
+      internalID: 5422324359119988818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_213
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 205
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc9ebd9db858e1a0800000000000000
+      internalID: -6780071667587703594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_214
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 205
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06566f996d45ab900800000000000000
+      internalID: 700965972692329824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_215
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 205
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb6a6b967faaf290800000000000000
+      internalID: -7855773676045964351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_216
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 190
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dbc0fb9be26c8d0800000000000000
+      internalID: -2826520340819296985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_217
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 180
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed2947de58c6d750800000000000000
+      internalID: 6329466635980189161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_218
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 187
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551e84736f757d9a0800000000000000
+      internalID: -6208396846305844907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_219
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886bef601376f1240800000000000000
+      internalID: 4764640391049688712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_220
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 174
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5ae10aca9710cd0800000000000000
+      internalID: -2593658128060996143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_221
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 172
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0807deec6c13b8e60800000000000000
+      internalID: 7965515095879807104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_222
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 190
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bcaf8bc0668fff0800000000000000
+      internalID: -2139594984600799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_223
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 180
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4017f7dbafaa10590800000000000000
+      internalID: -7709693093183786748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_224
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 187
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07debd310f4112a0800000000000000
+      internalID: -6768541898211666161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 191
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9861b19835e1b10800000000000000
+      internalID: 1954091136655460776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_226
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 174
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a172d7af2a206bf50800000000000000
+      internalID: 6896702778374956826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_227
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 172
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13d735bd76029c90800000000000000
+      internalID: -7164656920212024547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_228
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 190
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da845c493ef42f90800000000000000
+      internalID: -6979174000470226224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_229
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 180
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88403d9887c3f9e30800000000000000
+      internalID: 4512391840054576264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_230
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 187
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d806d38ce552590800000000000000
+      internalID: -7699643773803786958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_231
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 191
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6b7ee658789b8c0800000000000000
+      internalID: -3983003388271413514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_232
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 174
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab999f321ec7f7a0800000000000000
+      internalID: -6343374972356289627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_233
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 172
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c1af0ff7e6da00800000000000000
+      internalID: 781066668060296610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_234
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e49214fe0d110b0800000000000000
+      internalID: -5759592722421166479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_235
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 127
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199d11a9bf9df670800000000000000
+      internalID: 8574184885204130065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_236
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 137
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b444245b93ea677d0800000000000000
+      internalID: -2920955745425800117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_237
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 151
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468bc9fd361354060800000000000000
+      internalID: 6937005106057230436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_238
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 127
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4b7916ba45f3a70800000000000000
+      internalID: 8808852491213452523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_239
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 124
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305c5f81953c4f600800000000000000
+      internalID: 501240245983233283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_240
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 138
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d66041fe7f56220800000000000000
+      internalID: 2478659776142536027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_241
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c8ccb35230ab3f0800000000000000
+      internalID: -884390918372946813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_242
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 137
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c82554c256de780800000000000000
+      internalID: -8652148068292850579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_243
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 151
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7052339dc2d3a50800000000000000
+      internalID: 6502402748370454452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_244
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 127
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7645d0726d6ede0800000000000000
+      internalID: -1304119578861475858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_245
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 124
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59c006cc60a93880800000000000000
+      internalID: -8630690821839992486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_246
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 138
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60175d463658fb450800000000000000
+      internalID: 6106746281677648134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_247
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 127
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746fac5c6763e2680800000000000000
+      internalID: -8778018739946064313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_248
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 137
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd19c8599ea9b2000800000000000000
+      internalID: 12273752025633244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_249
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 151
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f825c9eda0ec9ea0800000000000000
+      internalID: -5864565577187251976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_250
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 127
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d63bd4d8fda5b30800000000000000
+      internalID: 4276976594128694572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_251
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 124
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429749dd5ce86b2f0800000000000000
+      internalID: -957420890292455132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_252
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 124
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe103400d3021910800000000000000
+      internalID: 1806510592487333618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_253
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 124
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8261ecda56f5d2430800000000000000
+      internalID: 3759766154236532264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_254
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 124
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b23375a83892eb30800000000000000
+      internalID: 4315178762035737269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_255
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d27be0270be9bd0800000000000000
+      internalID: -2621463929163403979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_256
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a135cd6d3a0bef010800000000000000
+      internalID: 1224610366422274842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_257
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 106
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36503c985e5333ec0800000000000000
+      internalID: -3588465218109110941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_258
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 110
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31210bf3613095a0800000000000000
+      internalID: -6516654355322429126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_259
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 93
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6594400bc962a4ff0800000000000000
+      internalID: -51185991351514794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_260
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 91
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d3983559c27170800000000000000
+      internalID: 8174817641489488240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_261
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e45e974256fc80800000000000000
+      internalID: -8289347596576300596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_262
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 99
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3b8bd989cd2190800000000000000
+      internalID: -7985504970326983194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_263
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 106
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd01ece937277f0b0800000000000000
+      internalID: -5694957362875592483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_264
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 110
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ec172eb83dc9b0800000000000000
+      internalID: -5058324417116051704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_265
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 93
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f52faea91ff3df90800000000000000
+      internalID: -6929914915823081999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_266
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 91
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81779a63375ce8ed0800000000000000
+      internalID: -2409771651967650024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_267
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54b87b239ecee510800000000000000
+      internalID: 1580427650738467935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_268
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 99
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d2fab3fc026ee0800000000000000
+      internalID: -1269437904011996159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_269
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 106
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c2e51cde7c9a340800000000000000
+      internalID: 4875647895570623500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_270
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 110
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e55a86ecf3914c80800000000000000
+      internalID: -8340222320504580639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_271
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 93
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d007ede7c7482df40800000000000000
+      internalID: 5751805344344862733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_272
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 91
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c00d830ad8c48200800000000000000
+      internalID: 181490723689660609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_273
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed606035b7fedaf0800000000000000
+      internalID: -369585761825034773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_274
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 43
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9badc1cca3fd70800000000000000
+      internalID: 9075787622460923866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_275
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 53
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe597cd9a795d340800000000000000
+      internalID: 4887979726384750321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_276
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 67
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de0f59753b276710800000000000000
+      internalID: 1686364094143074005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_277
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 43
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbf220f9e9564730800000000000000
+      internalID: 3982969781746858972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_278
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 40
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba0bd7fdfda68760800000000000000
+      internalID: 7459841139082463928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_279
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 54
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1a6c562430c6750800000000000000
+      internalID: 6299413562494722543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_280
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 43
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa19f7b89a9c9570800000000000000
+      internalID: 8474818579516693238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_281
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 53
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f39cca8574381c00800000000000000
+      internalID: 871504207340671991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_282
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 67
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ce78135c1e01380800000000000000
+      internalID: -9002447418057823197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_283
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 43
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c7885b212567bc0800000000000000
+      internalID: -3785748196449813492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_284
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 40
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff4d9dcc564ae150800000000000000
+      internalID: 5902607626023030777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_285
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 54
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f82455b75b0ff8e0800000000000000
+      internalID: -1657593666516801287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_286
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 43
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcd8d1396e6654b0800000000000000
+      internalID: -5452048900798489378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_287
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 53
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60db031a66487d5c0800000000000000
+      internalID: -4190735351919100666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_288
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 67
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54184ccdeb10e65d0800000000000000
+      internalID: -3067512376933449403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_289
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 43
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608bb1e5e5b81c6f0800000000000000
+      internalID: -666098032452061178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_290
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 40
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215f536c051a3c620800000000000000
+      internalID: 2793253562194720018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_291
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 40
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbfc836a7e25e0b0800000000000000
+      internalID: -5700098650176422916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_292
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 40
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b6ee129c56f200800000000000000
+      internalID: 213459815000094815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_293
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 40
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23aa4e2dbe2b9970800000000000000
+      internalID: 8762648890039771947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_294
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 25
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f5193da173bab90800000000000000
+      internalID: -7229624188455002295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_295
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8764750d4db18a8a0800000000000000
+      internalID: -6293749878407870856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_296
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 22
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e06430e2f31570800000000000000
+      internalID: 8436353571760432083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_297
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 26
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121ad69e57be24f90800000000000000
+      internalID: -6970750381556129503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_298
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6254ca9b793f27530800000000000000
+      internalID: 3851408464335881510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_299
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b192a50da1da74e50800000000000000
+      internalID: 6793588893588007195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_300
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 25
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb99093be6c277c0800000000000000
+      internalID: -4074975999240332307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_301
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 15
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414e47538d75225c0800000000000000
+      internalID: -4241731312908180460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_302
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 22
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0253d5f3c38ded30800000000000000
+      internalID: 4462367683460157966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_303
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 26
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031661d0faa5ab820800000000000000
+      internalID: 2934757815070646576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_304
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 9
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b36be88b4edb5400800000000000000
+      internalID: 314089015033422768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_305
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 7
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306fe01026a0036f0800000000000000
+      internalID: -707053725456337405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_306
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 25
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326912eb89600c680800000000000000
+      internalID: -8736976024004094429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_307
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 15
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e4dd23c8752f4b0800000000000000
+      internalID: -5408163942858142111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_308
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 22
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4913ff59645a8170800000000000000
+      internalID: 8181444484629993802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_309
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 26
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf58f0cfbc3b66b0800000000000000
+      internalID: -5302077342024704072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_310
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 9
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aaa02dc1fdb0710800000000000000
+      internalID: 1660666202492152466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu Bar_311
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 7
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e59b2117e450e0800000000000000
+      internalID: -2281945050238294069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Menu Bar_0: 7049795013504091112
+      Menu Bar_1: -7129889862245945361
+      Menu Bar_10: 6387041663378718762
+      Menu Bar_100: 6942419612540305062
+      Menu Bar_101: 6685217061618135858
+      Menu Bar_102: 5035018462389439625
+      Menu Bar_103: 726355707083847609
+      Menu Bar_104: -6938527712902745408
+      Menu Bar_105: 4296345617658851061
+      Menu Bar_106: -540596566744497815
+      Menu Bar_107: 5822010107251192585
+      Menu Bar_108: -5991739191220543831
+      Menu Bar_109: 2062843213847662044
+      Menu Bar_11: -5999514871524586422
+      Menu Bar_110: -1864844374614953072
+      Menu Bar_111: -2676541416906264276
+      Menu Bar_112: -7359726586371457809
+      Menu Bar_113: -3147254923819230823
+      Menu Bar_114: -3834366447556484285
+      Menu Bar_115: 1033091015384735473
+      Menu Bar_116: -8165896912287473553
+      Menu Bar_117: 6657809963087442335
+      Menu Bar_118: -105322430001908497
+      Menu Bar_119: 7750511489402556720
+      Menu Bar_12: -7075022171775623404
+      Menu Bar_120: 1793508074835580840
+      Menu Bar_121: 6251531932650907960
+      Menu Bar_122: -5497382339251047627
+      Menu Bar_123: 6016563795066809792
+      Menu Bar_124: -9191484181976814961
+      Menu Bar_125: 6184544233020980618
+      Menu Bar_126: -764034169758337214
+      Menu Bar_127: -3185279917828021832
+      Menu Bar_128: -6254777267128821771
+      Menu Bar_129: -282481924368898666
+      Menu Bar_13: -8332748165128768093
+      Menu Bar_130: -5711385467604722268
+      Menu Bar_131: 5540815968023262986
+      Menu Bar_132: -6969566034216198158
+      Menu Bar_133: -1187149224456010840
+      Menu Bar_134: -8685098548364506822
+      Menu Bar_135: 8011655362890582490
+      Menu Bar_136: -7876295263705562210
+      Menu Bar_137: 5871783051871181820
+      Menu Bar_138: -1407141573347126310
+      Menu Bar_139: -5875597832861137239
+      Menu Bar_14: -1031587761877784356
+      Menu Bar_140: 8260849057398822223
+      Menu Bar_141: -4159729862035927995
+      Menu Bar_142: 2444690293587200757
+      Menu Bar_143: 6327908703500739208
+      Menu Bar_144: -4079925604028009134
+      Menu Bar_145: -8335964046499371363
+      Menu Bar_146: 4107228329061228303
+      Menu Bar_147: -1731878184368821881
+      Menu Bar_148: -8940828914665530404
+      Menu Bar_149: 5743761802612475405
+      Menu Bar_15: -7325538111155530429
+      Menu Bar_150: -1995449032862479197
+      Menu Bar_151: -2626697345514850577
+      Menu Bar_152: -2208867832947312518
+      Menu Bar_153: -1998328717368220633
+      Menu Bar_154: 1684891265430600581
+      Menu Bar_155: 4230952133432673557
+      Menu Bar_156: -3393481021710239480
+      Menu Bar_157: -4181062427569158477
+      Menu Bar_158: 1124206488546599925
+      Menu Bar_159: 2898490100777779441
+      Menu Bar_16: -1358434477876924383
+      Menu Bar_160: -3367879494568471437
+      Menu Bar_161: -1994153650517751134
+      Menu Bar_162: -6091176559015310504
+      Menu Bar_163: -8900869762462401029
+      Menu Bar_164: 863524015910015958
+      Menu Bar_165: 3719221937902288953
+      Menu Bar_166: -4625723298045731642
+      Menu Bar_167: 5362230998171735734
+      Menu Bar_168: 9198014082076739222
+      Menu Bar_169: 3224071148161816884
+      Menu Bar_17: 2261385171099848868
+      Menu Bar_170: -4913141167195788806
+      Menu Bar_171: 4427921675283507939
+      Menu Bar_172: 2992744605553744114
+      Menu Bar_173: 9216810815868074401
+      Menu Bar_174: -3137051087112684465
+      Menu Bar_175: 1053362110944188217
+      Menu Bar_176: 3580328247435832440
+      Menu Bar_177: 279612630074393566
+      Menu Bar_178: 5341701802701041217
+      Menu Bar_179: -4963525304523363010
+      Menu Bar_18: -8185949553692865503
+      Menu Bar_180: 845512647279580985
+      Menu Bar_181: 5826344709549382626
+      Menu Bar_182: 8395255265023988432
+      Menu Bar_183: -6312089740055282969
+      Menu Bar_184: -1063004615141181989
+      Menu Bar_185: 4442882322613570216
+      Menu Bar_186: 126355170764852924
+      Menu Bar_187: -8400534749314992730
+      Menu Bar_188: -8927576070013007215
+      Menu Bar_189: -3833761161379584885
+      Menu Bar_19: -7425394344737746337
+      Menu Bar_190: -8351668728026766439
+      Menu Bar_191: 4137709569326923371
+      Menu Bar_192: -5753635346499604518
+      Menu Bar_193: 5703649234901820976
+      Menu Bar_194: 5723409609535861527
+      Menu Bar_195: -3271123395618278184
+      Menu Bar_196: -4879599617690477934
+      Menu Bar_197: -691054448144023514
+      Menu Bar_198: -1005024324263981997
+      Menu Bar_199: -1073088382811412276
+      Menu Bar_2: 5419017470248397798
+      Menu Bar_20: -7670020522625742439
+      Menu Bar_200: 3158707505842851178
+      Menu Bar_201: 8415594434774268799
+      Menu Bar_202: 2633196166193062952
+      Menu Bar_203: 2292948556671190290
+      Menu Bar_204: 7813220790078107599
+      Menu Bar_205: -4090609620667463395
+      Menu Bar_206: -6144678508708433034
+      Menu Bar_207: 2354999472143717516
+      Menu Bar_208: -1883230527003733122
+      Menu Bar_209: 7704983090349642482
+      Menu Bar_21: -8349596534236531778
+      Menu Bar_210: 6888414515135344115
+      Menu Bar_211: -8641085805821707994
+      Menu Bar_212: 5422324359119988818
+      Menu Bar_213: -6780071667587703594
+      Menu Bar_214: 700965972692329824
+      Menu Bar_215: -7855773676045964351
+      Menu Bar_216: -2826520340819296985
+      Menu Bar_217: 6329466635980189161
+      Menu Bar_218: -6208396846305844907
+      Menu Bar_219: 4764640391049688712
+      Menu Bar_22: 2737163098536467449
+      Menu Bar_220: -2593658128060996143
+      Menu Bar_221: 7965515095879807104
+      Menu Bar_222: -2139594984600799
+      Menu Bar_223: -7709693093183786748
+      Menu Bar_224: -6768541898211666161
+      Menu Bar_225: 1954091136655460776
+      Menu Bar_226: 6896702778374956826
+      Menu Bar_227: -7164656920212024547
+      Menu Bar_228: -6979174000470226224
+      Menu Bar_229: 4512391840054576264
+      Menu Bar_23: -1025718023090045357
+      Menu Bar_230: -7699643773803786958
+      Menu Bar_231: -3983003388271413514
+      Menu Bar_232: -6343374972356289627
+      Menu Bar_233: 781066668060296610
+      Menu Bar_234: -5759592722421166479
+      Menu Bar_235: 8574184885204130065
+      Menu Bar_236: -2920955745425800117
+      Menu Bar_237: 6937005106057230436
+      Menu Bar_238: 8808852491213452523
+      Menu Bar_239: 501240245983233283
+      Menu Bar_24: 8318558819537670883
+      Menu Bar_240: 2478659776142536027
+      Menu Bar_241: -884390918372946813
+      Menu Bar_242: -8652148068292850579
+      Menu Bar_243: 6502402748370454452
+      Menu Bar_244: -1304119578861475858
+      Menu Bar_245: -8630690821839992486
+      Menu Bar_246: 6106746281677648134
+      Menu Bar_247: -8778018739946064313
+      Menu Bar_248: 12273752025633244
+      Menu Bar_249: -5864565577187251976
+      Menu Bar_25: -1294407852998395746
+      Menu Bar_250: 4276976594128694572
+      Menu Bar_251: -957420890292455132
+      Menu Bar_252: 1806510592487333618
+      Menu Bar_253: 3759766154236532264
+      Menu Bar_254: 4315178762035737269
+      Menu Bar_255: -2621463929163403979
+      Menu Bar_256: 1224610366422274842
+      Menu Bar_257: -3588465218109110941
+      Menu Bar_258: -6516654355322429126
+      Menu Bar_259: -51185991351514794
+      Menu Bar_26: 8837720731107021850
+      Menu Bar_260: 8174817641489488240
+      Menu Bar_261: -8289347596576300596
+      Menu Bar_262: -7985504970326983194
+      Menu Bar_263: -5694957362875592483
+      Menu Bar_264: -5058324417116051704
+      Menu Bar_265: -6929914915823081999
+      Menu Bar_266: -2409771651967650024
+      Menu Bar_267: 1580427650738467935
+      Menu Bar_268: -1269437904011996159
+      Menu Bar_269: 4875647895570623500
+      Menu Bar_27: -157089768389917821
+      Menu Bar_270: -8340222320504580639
+      Menu Bar_271: 5751805344344862733
+      Menu Bar_272: 181490723689660609
+      Menu Bar_273: -369585761825034773
+      Menu Bar_274: 9075787622460923866
+      Menu Bar_275: 4887979726384750321
+      Menu Bar_276: 1686364094143074005
+      Menu Bar_277: 3982969781746858972
+      Menu Bar_278: 7459841139082463928
+      Menu Bar_279: 6299413562494722543
+      Menu Bar_28: 6079246238472222109
+      Menu Bar_280: 8474818579516693238
+      Menu Bar_281: 871504207340671991
+      Menu Bar_282: -9002447418057823197
+      Menu Bar_283: -3785748196449813492
+      Menu Bar_284: 5902607626023030777
+      Menu Bar_285: -1657593666516801287
+      Menu Bar_286: -5452048900798489378
+      Menu Bar_287: -4190735351919100666
+      Menu Bar_288: -3067512376933449403
+      Menu Bar_289: -666098032452061178
+      Menu Bar_29: 5186213207623816149
+      Menu Bar_290: 2793253562194720018
+      Menu Bar_291: -5700098650176422916
+      Menu Bar_292: 213459815000094815
+      Menu Bar_293: 8762648890039771947
+      Menu Bar_294: -7229624188455002295
+      Menu Bar_295: -6293749878407870856
+      Menu Bar_296: 8436353571760432083
+      Menu Bar_297: -6970750381556129503
+      Menu Bar_298: 3851408464335881510
+      Menu Bar_299: 6793588893588007195
+      Menu Bar_3: -3512904136437389896
+      Menu Bar_30: 565716951927696438
+      Menu Bar_300: -4074975999240332307
+      Menu Bar_301: -4241731312908180460
+      Menu Bar_302: 4462367683460157966
+      Menu Bar_303: 2934757815070646576
+      Menu Bar_304: 314089015033422768
+      Menu Bar_305: -707053725456337405
+      Menu Bar_306: -8736976024004094429
+      Menu Bar_307: -5408163942858142111
+      Menu Bar_308: 8181444484629993802
+      Menu Bar_309: -5302077342024704072
+      Menu Bar_31: -5395085556583998234
+      Menu Bar_310: 1660666202492152466
+      Menu Bar_311: -2281945050238294069
+      Menu Bar_32: 7555109211267772804
+      Menu Bar_33: -7826599862650026803
+      Menu Bar_34: -1621692061273112297
+      Menu Bar_35: -164678601844832837
+      Menu Bar_36: 4843675531890388742
+      Menu Bar_37: -1403092663946774109
+      Menu Bar_38: 4325160685767427808
+      Menu Bar_39: -1923575284690360292
+      Menu Bar_4: -4746676499299069562
+      Menu Bar_40: -1678114337223047243
+      Menu Bar_41: 2478585257369781673
+      Menu Bar_42: -8078002690998476087
+      Menu Bar_43: -1125845809072890844
+      Menu Bar_44: 7357444455379134125
+      Menu Bar_45: -7056298582422655105
+      Menu Bar_46: 3917462736545143580
+      Menu Bar_47: 1295306825765580057
+      Menu Bar_48: 5656889954140571513
+      Menu Bar_49: -631869950327308093
+      Menu Bar_5: 2115777952933894846
+      Menu Bar_50: -2440731464608331203
+      Menu Bar_51: -7164206273711024721
+      Menu Bar_52: 4632413764146639036
+      Menu Bar_53: 4214370567660485605
+      Menu Bar_54: 3912807796952413746
+      Menu Bar_55: 6290571303332350927
+      Menu Bar_56: -4471155089911011072
+      Menu Bar_57: -5535482973361506054
+      Menu Bar_58: 2913376834323685974
+      Menu Bar_59: 997074328502090051
+      Menu Bar_6: 8490682514604773652
+      Menu Bar_60: -3586606801417070371
+      Menu Bar_61: 8410318016689821637
+      Menu Bar_62: -1840688141577146312
+      Menu Bar_63: 4755607785478619107
+      Menu Bar_64: -4425602498620523967
+      Menu Bar_65: -2088050744170227416
+      Menu Bar_66: 1928984193781381254
+      Menu Bar_67: -2434677106701579696
+      Menu Bar_68: 8407738218657246665
+      Menu Bar_69: -2979036205385782232
+      Menu Bar_7: 277646646968991113
+      Menu Bar_70: -2498877637035207550
+      Menu Bar_71: -3614269487496426130
+      Menu Bar_72: 520153849049513021
+      Menu Bar_73: 1370195090188657219
+      Menu Bar_74: 2832349233064194602
+      Menu Bar_75: 1467135264913204037
+      Menu Bar_76: 6265877123266460173
+      Menu Bar_77: -8013012378836226608
+      Menu Bar_78: 4986596413649347199
+      Menu Bar_79: -6592733845397551035
+      Menu Bar_8: 7579714595258811368
+      Menu Bar_80: -4787429578259379697
+      Menu Bar_81: -3014660490332238387
+      Menu Bar_82: 3716929755829812837
+      Menu Bar_83: 7784286686036080316
+      Menu Bar_84: -621559319374799908
+      Menu Bar_85: 2728819446621115719
+      Menu Bar_86: 2468898240462117649
+      Menu Bar_87: -1309711842757160183
+      Menu Bar_88: 7325759216760889397
+      Menu Bar_89: -8147275794300290282
+      Menu Bar_9: -66138602895473666
+      Menu Bar_90: 3040913072521085787
+      Menu Bar_91: 5364398024930666897
+      Menu Bar_92: 1569547232570981294
+      Menu Bar_93: 5360374938734042494
+      Menu Bar_94: 3704323817898600582
+      Menu Bar_95: -6888263672816595936
+      Menu Bar_96: 2998678414080680169
+      Menu Bar_97: -952729452583842219
+      Menu Bar_98: 3076612859552250239
+      Menu Bar_99: 4529750456652081328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
