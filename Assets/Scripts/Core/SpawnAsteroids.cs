@@ -46,7 +46,12 @@ public class SpawnAsteroids : MonoBehaviour
                     isNeed = false;
                     platSpawnLogic.GetComponent<SpawnPlat>().StartAnim("Wave "
                         + (platSpawnLogic.GetComponent<SpawnPlat>().wave + 1).ToString());
-                    
+                    if(delayForSpawnAster > 0.1f)
+                    {
+                        delayForSpawnAster -= amoutRemoveDelay;
+                        waitForSeconds = new WaitForSeconds(delayForSpawnAster);
+                    }
+
                     StopAllCoroutines();
                 }
                 else

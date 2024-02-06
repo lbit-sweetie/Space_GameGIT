@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class PlatHealth : MonoBehaviour
 {
+    public ParticleSystem takeDamageParticle;
     public GameObject explosionPref;
     public PlatHealthBer healthBar;
     [Header("Stats")]
@@ -25,6 +26,10 @@ public class PlatHealth : MonoBehaviour
     }
     public void TakeDamage(float amout)
     {
+        //takeDamageParticle.Play();
+
+        Instantiate(takeDamageParticle, transform.position, Quaternion.identity);
+
         health -= amout;
         healthBar.SetHealth(Convert.ToInt32(health));
         if (health <= 0)
@@ -41,7 +46,7 @@ public class PlatHealth : MonoBehaviour
             {
                 isDetected = true;
                 collision.gameObject.GetComponent<PHealthSystem>().TakeDamage(amountOfHealth);
-                gameObject.tag = "Untagged";
+                //gameObject.tag = "Untagged";
                 Destroy(gameObject);
             }
         }

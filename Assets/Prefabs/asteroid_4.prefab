@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1719280964316287345}
   m_Layer: 0
   m_Name: asteroid_4
-  m_TagString: Untagged
+  m_TagString: Asteroid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,8 +30,8 @@ Transform:
   m_GameObject: {fileID: 2547484136945347256}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.8865485, y: -0.70863914, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -165,8 +165,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 360758e2155ce124b822cc803d40417d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
-  rotateSpeed: 1
+  speed: 3.5
+  rotateSpeed: 2
 --- !u!114 &1719280964316287345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -179,5 +179,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6704892c0021cf1429f0287a1ae102b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBar: {fileID: 0}
+  deathParticles: {fileID: 2750146722666112183, guid: ff922d73866b26440961f04feb1a4590, type: 3}
   isDetected: 0

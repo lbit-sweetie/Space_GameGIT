@@ -36,29 +36,32 @@ public class PHealthSystem : MonoBehaviour
         }
     }
 
-    private void Death()
+    public void Death(bool fastDeath = false)
     {
-
-        if (shiled1.activeInHierarchy)
-        {
-            shiled1.SetActive(false);
-            return;
-        }
-        if (shiled2.activeInHierarchy)
-        {
-            shiled2.SetActive(false);
-            return;
-        }
+        //if (!fastDeath)
+        //{
+        //    if (shiled1.activeInHierarchy)
+        //    {
+        //        shiled1.SetActive(false);
+        //        return;
+        //    }
+        //    if (shiled2.activeInHierarchy)
+        //    {
+        //        shiled2.SetActive(false);
+        //        return;
+        //    }
+        //}
 
         SaveScore();
-        Time.timeScale = 0;
         ChangeText();
 
 
 
         _audioM.StopMusic();
         _audioM.PlaySFX(_audioM.gameover);
-        deathCanvas.SetActive(true);
+        deathCanvas.GetComponent<Animator>().SetTrigger("Open");
+        Time.timeScale = 0;
+        //deathCanvas.SetActive(true);
     }
 
     private void ChangeText()

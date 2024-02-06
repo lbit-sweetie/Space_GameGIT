@@ -35,12 +35,13 @@ public class TimerGame : MonoBehaviour
 
     public void MainMenu()
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene("MenuS");
     }
 
     public void PlayAgain()
     {
-        deathCanvas.SetActive(false);
+        deathCanvas.GetComponent<Animator>().SetTrigger("Normal");
         Time.timeScale = 1f;
         SceneManager.LoadScene("GameS");
     }

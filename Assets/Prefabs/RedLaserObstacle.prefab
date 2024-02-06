@@ -482,9 +482,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e18236875732844abbfcdedfa6ae660, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  takeDamageParticle: {fileID: 4480413137644216878, guid: 7200b504e0c58124b97becfed76257f2, type: 3}
   explosionPref: {fileID: 2556513687480085307, guid: 69363449b031e8b4b8c641bb94f63826, type: 3}
   healthBar: {fileID: 4711477952528570622}
-  health: 200
+  health: 300
   amountOfHealth: 1
   typePlatform: normal
   isDetected: 0
@@ -500,7 +501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0cf42c9d2ff54b4ba970b0f19c156b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 3
 --- !u!50 &68160028497473418
 Rigidbody2D:
   serializedVersion: 4

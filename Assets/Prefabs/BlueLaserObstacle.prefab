@@ -327,10 +327,10 @@ GameObject:
   - component: {fileID: 2407070004939448260}
   - component: {fileID: 5663400729020489193}
   - component: {fileID: 2127036359935536071}
+  - component: {fileID: 7679644653249125364}
+  - component: {fileID: -8200410808669321905}
   - component: {fileID: 5755306358709089188}
   - component: {fileID: 6330874447291667435}
-  - component: {fileID: -8200410808669321905}
-  - component: {fileID: 7679644653249125364}
   m_Layer: 0
   m_Name: BlueLaserObstacle
   m_TagString: Platform
@@ -430,64 +430,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &5755306358709089188
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7563491145361999816}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e18236875732844abbfcdedfa6ae660, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  explosionPref: {fileID: 2556513687480085307, guid: 69363449b031e8b4b8c641bb94f63826, type: 3}
-  healthBar: {fileID: 2666918319074321602}
-  health: 100
-  amountOfHealth: 1
-  typePlatform: usual
-  isDetected: 0
---- !u!114 &6330874447291667435
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7563491145361999816}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c0cf42c9d2ff54b4ba970b0f19c156b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 1
---- !u!50 &-8200410808669321905
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7563491145361999816}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0
-  m_GravityScale: 0.05
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
 --- !u!61 &7679644653249125364
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -534,6 +476,65 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 3.14, y: 0.52}
   m_EdgeRadius: 0
+--- !u!50 &-8200410808669321905
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7563491145361999816}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0
+  m_GravityScale: 0.05
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &5755306358709089188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7563491145361999816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e18236875732844abbfcdedfa6ae660, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  takeDamageParticle: {fileID: 4525755846063540958, guid: 0c2fb51c927a46c4f93d2ca08b14410d, type: 3}
+  explosionPref: {fileID: 2556513687480085307, guid: 69363449b031e8b4b8c641bb94f63826, type: 3}
+  healthBar: {fileID: 2666918319074321602}
+  health: 200
+  amountOfHealth: 1
+  typePlatform: usual
+  isDetected: 0
+--- !u!114 &6330874447291667435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7563491145361999816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0cf42c9d2ff54b4ba970b0f19c156b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
 --- !u!1 &8947321393346441183
 GameObject:
   m_ObjectHideFlags: 0

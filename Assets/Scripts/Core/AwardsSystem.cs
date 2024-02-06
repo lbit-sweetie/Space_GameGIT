@@ -7,13 +7,9 @@ public class AwardsSystem : MonoBehaviour
     [Header("Prefabs")]
     [SerializeField] private GameObject shield1Award;
     [SerializeField] private GameObject shield2Award;
-    [SerializeField] private GameObject electroZubrAward;
-    [SerializeField] private GameObject rocketLauncherAward;
 
     [SerializeField] private GameObject shield1;
     [SerializeField] private GameObject shield2;
-    [SerializeField] private GameObject electroZubr;
-    [SerializeField] private GameObject rocketLauncher;
 
 
     public string GetAward(Vector2 platPos, bool isdeath)
@@ -38,18 +34,7 @@ public class AwardsSystem : MonoBehaviour
         }
         else
         {
-            if(a > 45 && a < 70)
-                return "";
-            if (gameObject.GetComponent<PAttack>().GetWeaponName() == "zubr")
-            {
-                Instantiate(rocketLauncherAward, platPos, Quaternion.identity);
-                return "rocketLauncher";
-            }
-            else
-            {
-                Instantiate(electroZubrAward, platPos, Quaternion.identity);
-                return "electroZubr";
-            }
+            return null;
         }
     }
 
@@ -62,7 +47,7 @@ public class AwardsSystem : MonoBehaviour
         }
     }
 
-    private void GetTypeAward(string name)
+    public void GetTypeAward(string name)
     {
         switch (name.ToLower())
         {
@@ -72,29 +57,6 @@ public class AwardsSystem : MonoBehaviour
             case "shield2_award(clone)":
                 shield2.SetActive(true);
                 break;
-            case "zubr_award(clone)":
-                rocketLauncher.SetActive(false);
-                electroZubr.SetActive(true);
-                break;
-            case "rocketlauncher_award(clone)":
-                electroZubr.SetActive(false);
-                rocketLauncher.SetActive(true);
-                break;
-
-            //case "shield1_award":
-            //    shield1.SetActive(true);
-            //    break;
-            //case "shield2_award":
-            //    shield2.SetActive(true);
-            //    break;
-            //case "zubr_award":
-            //    rocketLauncher.SetActive(false);
-            //    electroZubr.SetActive(true);
-            //    break;
-            //case "rocketlauncher_award":
-            //    electroZubr.SetActive(false);
-            //    rocketLauncher.SetActive(true);
-            //    break;
         }
     }
 }

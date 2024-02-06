@@ -10,12 +10,16 @@ public class CoinsSystem : MonoBehaviour
     public int coins;
     public int startCost;
     public int amoutToAddCoins;
-
-    public TMP_Text costText;
     public TMP_Text coinsText;
-    public TMP_Text levelText;
-
     public GameObject canvasNotEnought;
+
+    [Header("MaxMana")]
+    public TMP_Text costTextMaxMana;
+    public TMP_Text levelTextMaxMana;
+    [Header("Recovery time")]
+    public TMP_Text costTextRecoveryTime;
+    public TMP_Text levelTextRecoveryTime;
+
 
     public int WinGame(int score)
     {
@@ -39,55 +43,82 @@ public class CoinsSystem : MonoBehaviour
 
     private void Update()
     {
+        // Отладка
         if (Input.GetKeyDown(KeyCode.B))
         {
             //PlayerPrefs.SetInt("coins", 200);
+            Debug.Log("b");
             PlayerPrefs.DeleteAll();
         }
         if (Input.GetKeyDown(KeyCode.H))
         {
-            PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") + 50);
+            Debug.Log("h");
+            PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") + 100);
             //PlayerPrefs.DeleteAll();
         }
     }
 
-    public void BuyUpgrade()
+    public void BuyUpgradeMaxMana()
     {
-        if(Things() == 0)
+        if (BuyNewUpgrade(10, "multiplierMaxMana", "costMaxMana",
+            100, "levelMaxMana", costTextMaxMana, levelTextMaxMana) == 0)
         {
-            canvasNotEnought.SetActive(true);
+            // Не хватает деняк. Сюда анимацию
+            //canvasNotEnought.SetActive(true);
+            gameObject.GetComponent<MenuScr>().OpenNotEnought();
         }
     }
 
-    public int Things()
+    public void BuyUpgradeRecoveryTime()
+    {
+        if (BuyNewUpgrade(2, "multiplierRecoveryTime", "costRecoveryTime",
+            200, "levelRecoveryTime", costTextRecoveryTime, levelTextRecoveryTime) == 0)
+        {
+            // Не хватает деняк. Сюда анимацию
+            //canvasNotEnought.SetActive(true);
+            gameObject.GetComponent<MenuScr>().OpenNotEnought();
+        }
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="typeMultiplier">Добавочное значение к параметру (название параметра)</param>
+    /// <param name="costUpgrade">Текущая стоимость улучшения (название параметра)</param>
+    /// <param name="startPriceForUpgrade">Начальная стоимость</param>
+    /// <param name="levelUpgrade">Параметр текущего левела (название параметра)</param>
+    /// <param name="textMenuCost">Переменная текста стоимости</param>
+    /// <param name="textNameLevel">Переменная текста левела</param>
+    /// <returns></returns>
+    public int BuyNewUpgrade(int amountToAddMultiplier, string typeMultiplier, string costUpgrade, int startPriceForUpgrade,
+        string levelUpgrade, TMP_Text textMenuCost, TMP_Text textNameLevel)
     {
         if (PlayerPrefs.HasKey("coins"))
         {
-            if (!PlayerPrefs.HasKey("cost"))
+            if (!PlayerPrefs.HasKey(costUpgrade))
             {
-                PlayerPrefs.SetInt("cost", 100);
+                PlayerPrefs.SetInt(costUpgrade, startPriceForUpgrade);
             }
-            if (PlayerPrefs.GetInt("coins") >= PlayerPrefs.GetInt("cost"))
+            if (PlayerPrefs.GetInt("coins") >= PlayerPrefs.GetInt(costUpgrade))
             {
-                if (PlayerPrefs.HasKey("multiplier"))
+                if (PlayerPrefs.HasKey(typeMultiplier))
                 {
-                    PlayerPrefs.SetInt("multiplier", PlayerPrefs.GetInt("multiplier") + 1);
-                    PlayerPrefs.SetInt("level", PlayerPrefs.GetInt("level") + 1);
-                    PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") - PlayerPrefs.GetInt("cost"));
-                    PlayerPrefs.SetInt("cost", PlayerPrefs.GetInt("cost") * 2);
-
+                    PlayerPrefs.SetInt(typeMultiplier, PlayerPrefs.GetInt(typeMultiplier) + amountToAddMultiplier);
+                    PlayerPrefs.SetInt(levelUpgrade, PlayerPrefs.GetInt(levelUpgrade) + 1);
+                    PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") - PlayerPrefs.GetInt(costUpgrade));
+                    PlayerPrefs.SetInt(costUpgrade, PlayerPrefs.GetInt(costUpgrade) * 2);
 
                     PlayerPrefs.Save();
                 }
                 else
                 {
-                    PlayerPrefs.SetInt("multiplier", 2);
-                    PlayerPrefs.SetInt("level", 1);
-                    PlayerPrefs.SetInt("cost", 200);
-                    PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") - 100);
+                    PlayerPrefs.SetInt(typeMultiplier, amountToAddMultiplier);
+                    PlayerPrefs.SetInt(levelUpgrade, 1);
+                    PlayerPrefs.SetInt(costUpgrade, startPriceForUpgrade * 2);
+                    PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") - startPriceForUpgrade);
                     PlayerPrefs.Save();
                 }
-                UpdateCost();
+                UpdateCost(costUpgrade, startPriceForUpgrade, levelUpgrade, textMenuCost, textNameLevel);
                 return 1;
             }
             else
@@ -101,18 +132,25 @@ public class CoinsSystem : MonoBehaviour
         }
     }
 
-    public void UpdateCost()
+    public void UpdateCost(string costUpgrade, int startPriceForUpgrade,
+        string levelUpgrade, TMP_Text textMenu, TMP_Text textNameLevel)
     {
-        if (PlayerPrefs.HasKey("cost"))
+        if (PlayerPrefs.HasKey(costUpgrade))
         {
-            costText.text = "price: " + PlayerPrefs.GetInt("cost").ToString();
+            textMenu.text = "price: " + PlayerPrefs.GetInt(costUpgrade).ToString();
         }
         else
         {
-            costText.text = "price: 100";
+            textMenu.text = "price: " + startPriceForUpgrade.ToString();
         }
         UpdateCoins();
-        UpdateLevel();
+        UpdateLevel(levelUpgrade, textNameLevel);
+    }
+
+    public void UpdateCostMenu()
+    {
+        UpdateCost("costMaxMana", 100, "levelMaxMana", costTextMaxMana, levelTextMaxMana);
+        UpdateCost("costRecoveryTime", 200, "levelRecoveryTime", costTextRecoveryTime, levelTextRecoveryTime);
     }
 
     public void UpdateCoins()
@@ -127,16 +165,15 @@ public class CoinsSystem : MonoBehaviour
         }
     }
 
-    private void UpdateLevel()
+    private void UpdateLevel(string levelUpgrade, TMP_Text textName)
     {
-        if (PlayerPrefs.HasKey("level"))
+        if (PlayerPrefs.HasKey(levelUpgrade))
         {
-            levelText.text = "level: " + PlayerPrefs.GetInt("level").ToString();
+            textName.text = "level: " + PlayerPrefs.GetInt(levelUpgrade).ToString();
         }
         else
         {
-            levelText.text = "level: 0";
+            textName.text = "level: 0";
         }
     }
 }
-

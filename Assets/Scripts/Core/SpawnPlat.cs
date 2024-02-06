@@ -16,6 +16,7 @@ public class SpawnPlat : MonoBehaviour
     [SerializeField] private GameObject platMas;
     [SerializeField] private GameObject[] _platforms;
     [SerializeField] private GameObject[] placesForSpawn;
+    [SerializeField] private GameObject[] placesForFriends;
     [SerializeField] private float delayForSpawn;
     [SerializeField] private float delayBetweenWaves;
 
@@ -28,6 +29,7 @@ public class SpawnPlat : MonoBehaviour
     public float amoutRemoveDelay;
 
     public GameObject asterLogic;
+    public GameObject friend;
 
 
 
@@ -48,7 +50,7 @@ public class SpawnPlat : MonoBehaviour
                 {
                     if (platMas.transform.childCount <= 0)
                     {
-                        if (delayForSpawn > 1f)
+                        if (delayForSpawn > 0.2f)
                         {
                             delayForSpawn -= amoutRemoveDelay;
                             waitForSeconds = new WaitForSeconds(delayForSpawn);
@@ -70,9 +72,20 @@ public class SpawnPlat : MonoBehaviour
                 }
                 else
                 {
+                    // Спавн друзей
+                    if (UnityEngine.Random.Range(0, 15) == 6)
+                    {
+                        GameObject fr = Instantiate(friend,
+                            placesForFriends[UnityEngine.Random.Range(0, placesForFriends.Length)].transform.position,
+                            new Quaternion(0, 0, 180, 0));
+                        fr.transform.SetParent(platMas.transform);
+                        yield return waitForSeconds;
+                    }
+
+                    // Спавн платформ
                     var a = Instantiate(_platforms[UnityEngine.Random.Range(0, _platforms.Length)],
-                        placesForSpawn[UnityEngine.Random.Range(0, placesForSpawn.Length)].transform.position,
-                        Quaternion.identity);
+                    placesForSpawn[UnityEngine.Random.Range(0, placesForSpawn.Length)].transform.position,
+                    Quaternion.identity);
                     a.transform.SetParent(platMas.transform);
                     countOfPlatforms++;
                     yield return waitForSeconds;

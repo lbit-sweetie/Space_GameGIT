@@ -16,21 +16,14 @@ public class PScoreSystem : MonoBehaviour
     [SerializeField] private int amoutForUsual;
     [SerializeField] private int amoutForNormal;
     [SerializeField] private int amoutForHrad;
-    [SerializeField] private int amoutForShildBrake;
+    [SerializeField] private int amoutForAsteroid;
+    //[SerializeField] private int amoutForShildBrake;
     private float textSpeed = 50;
 
-    private int multiplier = 1;
+    //private int multiplier = 1;
 
     private void Start()
     {
-        if (PlayerPrefs.HasKey("multiplier"))
-        {
-            multiplier = PlayerPrefs.GetInt("multiplier");
-        }
-        else
-        {
-            multiplier = 1;
-        }
         //Debug.Log(multiplier);
     }
 
@@ -39,16 +32,20 @@ public class PScoreSystem : MonoBehaviour
         switch (type.ToLower())
         {
             case "usual":
-                _score += amoutForUsual * multiplier;
-                AddedScoreText(amoutForUsual * multiplier);
+                _score += amoutForUsual;
+                AddedScoreText(amoutForUsual);
                 break;
             case "normal":
-                _score += amoutForNormal * multiplier;
-                AddedScoreText(amoutForNormal * multiplier);
+                _score += amoutForNormal;
+                AddedScoreText(amoutForNormal);
                 break;
             case "hard":
-                _score += amoutForHrad * multiplier;
-                AddedScoreText(amoutForHrad * multiplier);
+                _score += amoutForHrad;
+                AddedScoreText(amoutForHrad);
+                break;
+            case "asteroid":
+                _score += amoutForAsteroid;
+                AddedScoreText(amoutForAsteroid);
                 break;
             default:
                 _score += 10;

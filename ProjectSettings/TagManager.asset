@@ -9,6 +9,10 @@ TagManager:
   - Shi
   - Timer
   - Audio
+  - Asteroid
+  - Blade
+  - Friend
+  - FadeInGame
   layers:
   - Default
   - TransparentFX

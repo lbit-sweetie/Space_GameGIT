@@ -6,13 +6,24 @@ using UnityEngine;
 public class AsterHealth : MonoBehaviour
 {
     //public float health = 100;
-    public PlatHealthBer healthBar;
+    //public PlatHealthBer healthBar;
+    public GameObject deathParticles;
 
     public bool isDetected;
 
     private void Awake()
     {
         Destroy(gameObject, 12f);
+    }
+
+    public void TakeDamage()
+    {
+        Instantiate(deathParticles, transform.position, Quaternion.identity);
+
+        var a = GameObject.FindGameObjectWithTag("Player");
+        a.GetComponent<PScoreSystem>().AddScore("asteroid");
+
+        Destroy(gameObject);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -12,8 +12,14 @@ public class ShieldSystem : MonoBehaviour
             {
                 collision.GetComponent<PlatHealth>().Death();
                 collision.GetComponent<PlatHealth>().isDetected = true;
-                gameObject.SetActive(false); 
+                gameObject.SetActive(false);
             }
+        }
+        if (collision.CompareTag("Asteroid"))
+        {
+            collision.GetComponent<AsterHealth>().TakeDamage();
+            gameObject.SetActive(false);
+            Destroy(collision.gameObject);
         }
     }
 }
