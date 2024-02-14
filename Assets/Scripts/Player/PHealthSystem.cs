@@ -2,7 +2,6 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
-using UnityEditor.XR;
 using UnityEngine;
 
 public class PHealthSystem : MonoBehaviour
@@ -25,6 +24,7 @@ public class PHealthSystem : MonoBehaviour
 
     private void Start()
     {
+        Application.targetFrameRate = 200;
         _audioM = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
     public void TakeDamage(int amount)
@@ -38,30 +38,13 @@ public class PHealthSystem : MonoBehaviour
 
     public void Death(bool fastDeath = false)
     {
-        //if (!fastDeath)
-        //{
-        //    if (shiled1.activeInHierarchy)
-        //    {
-        //        shiled1.SetActive(false);
-        //        return;
-        //    }
-        //    if (shiled2.activeInHierarchy)
-        //    {
-        //        shiled2.SetActive(false);
-        //        return;
-        //    }
-        //}
-
         SaveScore();
         ChangeText();
-
-
 
         _audioM.StopMusic();
         _audioM.PlaySFX(_audioM.gameover);
         deathCanvas.GetComponent<Animator>().SetTrigger("Open");
         Time.timeScale = 0;
-        //deathCanvas.SetActive(true);
     }
 
     private void ChangeText()
@@ -81,7 +64,7 @@ public class PHealthSystem : MonoBehaviour
     {
         if (PlayerPrefs.HasKey("score"))
         {
-            bestText.text = "best:" + PlayerPrefs.GetInt("score").ToString();
+            bestText.text = "best: " + PlayerPrefs.GetInt("score").ToString();
         }
         else
         {

@@ -12,10 +12,8 @@ public class AwardsSystem : MonoBehaviour
     [SerializeField] private GameObject shield2;
 
 
-    public string GetAward(Vector2 platPos, bool isdeath)
+    public string GetAward(Vector2 platPos)
     {
-        if (isdeath)
-            return "";
         var a = Random.Range(1, 80);
         if (a < 30)
             return null;

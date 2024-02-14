@@ -9,7 +9,6 @@ public class TimerGame : MonoBehaviour
     [SerializeField] private GameObject deathCanvas;
     public int sec = 0;
     public int min = 0;
-    [SerializeField] TMP_Text _timerText;
     [SerializeField] int delta = 0;
     void Start()
     {
@@ -27,7 +26,6 @@ public class TimerGame : MonoBehaviour
             }
             sec += delta;
 
-            _timerText.text = min.ToString("D2") + ":" + sec.ToString("D2");
 
             yield return new WaitForSeconds(1);
         }

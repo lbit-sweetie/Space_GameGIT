@@ -8,7 +8,15 @@ public class FadeIn : MonoBehaviour
     public void PlayGame(string sceneName)
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(sceneName);
+
+        if (PlayerPrefs.HasKey("tutorial"))
+        {
+            SceneManager.LoadScene("GameS");
+        }
+        else
+        {
+            SceneManager.LoadScene("Tutorial");
+        }
     }
 
     private void Start()

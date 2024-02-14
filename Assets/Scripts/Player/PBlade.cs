@@ -24,6 +24,7 @@ public class PBlade : MonoBehaviour
 
     private WaitForSeconds waitForSeconds;
     private WaitForSeconds waitForSecondsRevive;
+    private Material materialBlade;
 
     private void Awake()
     {
@@ -33,9 +34,7 @@ public class PBlade : MonoBehaviour
         waitForSeconds = new WaitForSeconds(delayForMana);
         waitForSecondsRevive = new WaitForSeconds(delayForMana * 1.5f);
 
-
         GetUpgrades();
-
     }
 
     private void GetUpgrades()
@@ -52,17 +51,16 @@ public class PBlade : MonoBehaviour
 
         if (PlayerPrefs.HasKey("multiplierRecoveryTime"))
         {
-            //Debug.Log("multiplierRecoveryTime = " + PlayerPrefs.GetInt("multiplierRecoveryTime"));
             float a = (float)(PlayerPrefs.GetInt("multiplierRecoveryTime")) / 1000f;
             delayForMana = delayForMana - a;
             waitForSecondsRevive = new WaitForSeconds(delayForMana * 1.5f);
-            //Debug.Log("amout add / 10 = " + a);
-            //Debug.Log("delayForMana = " + delayForMana);
         }
     }
 
     private void Start()
     {
+        materialBlade = GetComponentInChildren<TrailRenderer>().material;
+        materialBlade.EnableKeyword("_EMISSION");
         StartCoroutine(CountingMana());
     }
 
@@ -117,7 +115,7 @@ public class PBlade : MonoBehaviour
         direction = newPosition - transform.position;
         float velocity = direction.magnitude / Time.deltaTime;
 
-        bladeColider.enabled = velocity > minSliceVel;
+        bladeColider.enabled = velocity >= minSliceVel;
         transform.position = newPosition;
     }
 
@@ -132,8 +130,11 @@ public class PBlade : MonoBehaviour
                     _mana -= diferenceTimeMana;
 
                     float a = (_mana / maxMana);
-                    bladeTrail.startColor = new Color(bladeTrail.startColor.r, a, bladeTrail.startColor.b);
-                    bladeTrail.endColor = new Color(bladeTrail.endColor.r, a, bladeTrail.endColor.b);
+                    materialBlade.SetColor("_EmissionColor", 
+                        new Color(materialBlade.GetColor("_EmissionColor").r, 
+                        a,
+                        materialBlade.GetColor("_EmissionColor").b));
+                    
                     
                     yield return waitForSeconds;
                 }
@@ -149,6 +150,8 @@ public class PBlade : MonoBehaviour
                 if (_mana < maxMana)
                 {
                     _mana += diferenceTimeMana;
+                    if(_mana > maxMana)
+                        _mana = maxMana;
                     yield return waitForSecondsRevive;
                 }
                 yield return null;

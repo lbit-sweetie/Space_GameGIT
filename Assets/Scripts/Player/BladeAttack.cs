@@ -11,7 +11,17 @@ public class BladeAttack : MonoBehaviour
     private void Start()
     {
         awardSystem = GameObject.FindGameObjectWithTag("Player").GetComponent<AwardsSystem>();
+        GetSavedStats();
     }
+
+    private void GetSavedStats()
+    {
+        if (PlayerPrefs.HasKey("multiplierDamage"))
+        {
+            damage += PlayerPrefs.GetInt("multiplierDamage");
+        }
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         switch (collision.tag)
@@ -19,19 +29,11 @@ public class BladeAttack : MonoBehaviour
             case "Asteroid":
                 ColisionAsteroid(collision);
                 break;
-            case "Platform":
-                ColisionPlatform(collision);
-                break;
             case "Award":
                 awardSystem.GetTypeAward(collision.gameObject.name);
                 Destroy(collision.gameObject);
                 break;
         }
-    }
-
-    private void ColisionPlatform(Collider2D col)
-    {
-        col.GetComponent<PlatHealth>().TakeDamage(damage);
     }
 
     private void ColisionAsteroid(Collider2D col)

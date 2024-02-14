@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class SpawnAsteroids : MonoBehaviour
@@ -19,6 +20,7 @@ public class SpawnAsteroids : MonoBehaviour
     public float amoutRemoveDelay;
 
     public GameObject platSpawnLogic;
+    private float addedSpeed = 0;
 
     private void Start()
     {
@@ -46,11 +48,8 @@ public class SpawnAsteroids : MonoBehaviour
                     isNeed = false;
                     platSpawnLogic.GetComponent<SpawnPlat>().StartAnim("Wave "
                         + (platSpawnLogic.GetComponent<SpawnPlat>().wave + 1).ToString());
-                    if(delayForSpawnAster > 0.1f)
-                    {
-                        delayForSpawnAster -= amoutRemoveDelay;
-                        waitForSeconds = new WaitForSeconds(delayForSpawnAster);
-                    }
+                    
+                    Harder();
 
                     StopAllCoroutines();
                 }
@@ -67,9 +66,24 @@ public class SpawnAsteroids : MonoBehaviour
                         UnityEngine.Random.Range(0, placesForSpawnAster.Length)].transform.position,
                     Quaternion.identity);
                 a.transform.SetParent(asterMas.transform);
+                a.GetComponent<AsterMove>().AddSpeed(addedSpeed);
                 countOfPlatforms++;
                 yield return waitForSeconds;
             }
+        }
+    }
+
+    private void Harder()
+    {
+        if (delayForSpawnAster > 0.1f)
+        {
+            delayForSpawnAster -= amoutRemoveDelay;
+            waitForSeconds = new WaitForSeconds(delayForSpawnAster);
+        }
+
+        if(addedSpeed <= 10f)
+        {
+            addedSpeed += 0.4f;
         }
     }
 }

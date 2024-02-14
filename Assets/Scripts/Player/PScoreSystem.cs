@@ -17,15 +17,8 @@ public class PScoreSystem : MonoBehaviour
     [SerializeField] private int amoutForNormal;
     [SerializeField] private int amoutForHrad;
     [SerializeField] private int amoutForAsteroid;
-    //[SerializeField] private int amoutForShildBrake;
-    private float textSpeed = 50;
+    [SerializeField] private float textSpeed = 50;
 
-    //private int multiplier = 1;
-
-    private void Start()
-    {
-        //Debug.Log(multiplier);
-    }
 
     public void AddScore(string type)
     {
@@ -60,7 +53,29 @@ public class PScoreSystem : MonoBehaviour
         textPref.transform.SetParent(parent.transform);
         textPref.GetComponent<TextMeshProUGUI>().text = "+" + amount.ToString();
         textPref.GetComponent<Rigidbody2D>().velocity = placeForSpawnText.transform.up * textSpeed;
+        StartCoroutine(FadeOutAnim(textPref));
         Destroy(textPref, 1f);
+    }
+
+    private IEnumerator FadeOutAnim(GameObject text)
+    {
+        while (true)
+        {
+            try
+            {
+                text.GetComponent<TextMeshProUGUI>().color -= new Color(0f, 0f, 0f, 0.1f);
+                if (text.GetComponent<TextMeshProUGUI>().color.a <= 0)
+                {
+                    StopCoroutine(FadeOutAnim(text));
+                    Destroy(text);
+                }
+            }
+            catch (MissingReferenceException)
+            {
+                StopCoroutine(FadeOutAnim(text));
+            }
+            yield return new WaitForSeconds(0.1f);
+        }
     }
 
     public int GetScore()

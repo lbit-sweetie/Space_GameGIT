@@ -5,8 +5,6 @@ using UnityEngine;
 
 public class AsterHealth : MonoBehaviour
 {
-    //public float health = 100;
-    //public PlatHealthBer healthBar;
     public GameObject deathParticles;
 
     public bool isDetected;

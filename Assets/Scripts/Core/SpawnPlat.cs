@@ -31,7 +31,8 @@ public class SpawnPlat : MonoBehaviour
     public GameObject asterLogic;
     public GameObject friend;
 
-
+    private float currentSpeed;
+    private float addedHealth = 0;
 
     private void Start()
     {
@@ -59,6 +60,7 @@ public class SpawnPlat : MonoBehaviour
                         countOfPlatforms = 0;
                         alreadySpawned += amoutAddCountPlat;
 
+                        Harder();
                         asterLogic.GetComponent<SpawnAsteroids>().StartSpawn();
                         StartCoroutine(Animation("Asteroids!"));
                         yield return null;
@@ -72,21 +74,23 @@ public class SpawnPlat : MonoBehaviour
                 }
                 else
                 {
-                    // Спавн друзей
                     if (UnityEngine.Random.Range(0, 15) == 6)
                     {
                         GameObject fr = Instantiate(friend,
-                            placesForFriends[UnityEngine.Random.Range(0, placesForFriends.Length)].transform.position,
+                            placesForFriends[UnityEngine.Random.Range(0, 
+                            placesForFriends.Length)].transform.position,
                             new Quaternion(0, 0, 180, 0));
                         fr.transform.SetParent(platMas.transform);
                         yield return waitForSeconds;
                     }
 
-                    // Спавн платформ
                     var a = Instantiate(_platforms[UnityEngine.Random.Range(0, _platforms.Length)],
                     placesForSpawn[UnityEngine.Random.Range(0, placesForSpawn.Length)].transform.position,
                     Quaternion.identity);
                     a.transform.SetParent(platMas.transform);
+                    a.GetComponent<PlatMovement>().AddSpeed(currentSpeed);
+                    a.GetComponent<PlatHealth>().AddHealth(addedHealth);
+
                     countOfPlatforms++;
                     yield return waitForSeconds;
                 }
@@ -95,6 +99,18 @@ public class SpawnPlat : MonoBehaviour
             {
                 yield return null;
             }
+        }
+    }
+
+    private void Harder()
+    {
+        if(addedHealth <= 1000f)
+        {
+            addedHealth += 50f;
+        }
+        if(currentSpeed <= 8f)
+        {
+            currentSpeed += 0.2f;
         }
     }
 

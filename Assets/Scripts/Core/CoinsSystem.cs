@@ -19,6 +19,12 @@ public class CoinsSystem : MonoBehaviour
     [Header("Recovery time")]
     public TMP_Text costTextRecoveryTime;
     public TMP_Text levelTextRecoveryTime;
+    [Header("Recovery time")]
+    public TMP_Text costTextDamage;
+    public TMP_Text levelTextDamage;
+    [Header("Recovery time")]
+    public TMP_Text costTextSpeedObstacle;
+    public TMP_Text levelTextSpeedObstacle;
 
 
     public int WinGame(int score)
@@ -43,10 +49,9 @@ public class CoinsSystem : MonoBehaviour
 
     private void Update()
     {
-        // Отладка
+        //Отладка
         if (Input.GetKeyDown(KeyCode.B))
         {
-            //PlayerPrefs.SetInt("coins", 200);
             Debug.Log("b");
             PlayerPrefs.DeleteAll();
         }
@@ -54,17 +59,14 @@ public class CoinsSystem : MonoBehaviour
         {
             Debug.Log("h");
             PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") + 100);
-            //PlayerPrefs.DeleteAll();
         }
     }
 
     public void BuyUpgradeMaxMana()
     {
-        if (BuyNewUpgrade(10, "multiplierMaxMana", "costMaxMana",
+        if (BuyNewUpgrade(100, "multiplierMaxMana", "costMaxMana",
             100, "levelMaxMana", costTextMaxMana, levelTextMaxMana) == 0)
         {
-            // Не хватает деняк. Сюда анимацию
-            //canvasNotEnought.SetActive(true);
             gameObject.GetComponent<MenuScr>().OpenNotEnought();
         }
     }
@@ -72,25 +74,31 @@ public class CoinsSystem : MonoBehaviour
     public void BuyUpgradeRecoveryTime()
     {
         if (BuyNewUpgrade(2, "multiplierRecoveryTime", "costRecoveryTime",
-            200, "levelRecoveryTime", costTextRecoveryTime, levelTextRecoveryTime) == 0)
+            150, "levelRecoveryTime", costTextRecoveryTime, levelTextRecoveryTime) == 0)
         {
-            // Не хватает деняк. Сюда анимацию
-            //canvasNotEnought.SetActive(true);
             gameObject.GetComponent<MenuScr>().OpenNotEnought();
         }
     }
 
-    /// <summary>
-    /// 
-    /// </summary>
-    /// <param name="typeMultiplier">Добавочное значение к параметру (название параметра)</param>
-    /// <param name="costUpgrade">Текущая стоимость улучшения (название параметра)</param>
-    /// <param name="startPriceForUpgrade">Начальная стоимость</param>
-    /// <param name="levelUpgrade">Параметр текущего левела (название параметра)</param>
-    /// <param name="textMenuCost">Переменная текста стоимости</param>
-    /// <param name="textNameLevel">Переменная текста левела</param>
-    /// <returns></returns>
-    public int BuyNewUpgrade(int amountToAddMultiplier, string typeMultiplier, string costUpgrade, int startPriceForUpgrade,
+    public void BuyUpgradeDamageBoost()
+    {
+        if (BuyNewUpgrade(50, "multiplierDamage", "costDamage",
+            200, "levelDamage", costTextDamage, levelTextDamage) == 0)
+        {
+            gameObject.GetComponent<MenuScr>().OpenNotEnought();
+        }
+    }
+
+    public void BuyUpgradeSpeedObstacle()
+    {
+        if (BuyNewUpgrade(2, "multiplierSpeedObstacles", "costSpeedObstacles",
+            150, "levelSpeedObstacles", costTextSpeedObstacle, levelTextSpeedObstacle) == 0)
+        {
+            gameObject.GetComponent<MenuScr>().OpenNotEnought();
+        }
+    }
+    public int BuyNewUpgrade(int amountToAddMultiplier, string typeMultiplier, 
+        string costUpgrade, int startPriceForUpgrade,
         string levelUpgrade, TMP_Text textMenuCost, TMP_Text textNameLevel)
     {
         if (PlayerPrefs.HasKey("coins"))
@@ -103,7 +111,8 @@ public class CoinsSystem : MonoBehaviour
             {
                 if (PlayerPrefs.HasKey(typeMultiplier))
                 {
-                    PlayerPrefs.SetInt(typeMultiplier, PlayerPrefs.GetInt(typeMultiplier) + amountToAddMultiplier);
+                    PlayerPrefs.SetInt(typeMultiplier, PlayerPrefs.GetInt(typeMultiplier) + 
+                        amountToAddMultiplier);
                     PlayerPrefs.SetInt(levelUpgrade, PlayerPrefs.GetInt(levelUpgrade) + 1);
                     PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") - PlayerPrefs.GetInt(costUpgrade));
                     PlayerPrefs.SetInt(costUpgrade, PlayerPrefs.GetInt(costUpgrade) * 2);
@@ -150,7 +159,11 @@ public class CoinsSystem : MonoBehaviour
     public void UpdateCostMenu()
     {
         UpdateCost("costMaxMana", 100, "levelMaxMana", costTextMaxMana, levelTextMaxMana);
-        UpdateCost("costRecoveryTime", 200, "levelRecoveryTime", costTextRecoveryTime, levelTextRecoveryTime);
+        UpdateCost("costRecoveryTime", 150, "levelRecoveryTime", 
+            costTextRecoveryTime, levelTextRecoveryTime);
+        UpdateCost("costDamage", 200, "levelDamage", costTextDamage, levelTextDamage);
+        UpdateCost("costSpeedObstacles", 150, "levelSpeedObstacles", 
+            costTextSpeedObstacle, levelTextSpeedObstacle);
     }
 
     public void UpdateCoins()
