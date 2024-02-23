@@ -6,7 +6,6 @@ using UnityEngine;
 
 public class PHealthSystem : MonoBehaviour
 {
-    [Header("UI")]
     public GameObject deathCanvas;
     public TMP_Text scoreText;
     public TMP_Text timeText;

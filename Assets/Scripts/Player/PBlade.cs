@@ -11,11 +11,9 @@ public class PBlade : MonoBehaviour
     private TrailRenderer bladeTrail;
     private bool isSlising;
 
-    [Header("Blade")]
     public Vector3 direction { get; private set; }
     public float minSliceVel = 0.01f;
 
-    [Header("Mana")]
     public float maxMana;
     public float _mana;
     public float delayForMana;

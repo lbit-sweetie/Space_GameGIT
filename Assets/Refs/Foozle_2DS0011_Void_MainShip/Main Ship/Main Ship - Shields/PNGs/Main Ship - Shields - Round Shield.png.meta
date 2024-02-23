@@ -39,7 +39,7 @@ TextureImporter:
       213: -3459012902084987596
     second: Main Ship - Shields - Round Shield_11
   externalObjects: {}
-  serializedVersion: 13
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -155,6 +155,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -162,10 +188,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 7
-        width: 52
-        height: 52
+        x: 7
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,10 +209,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_1
       rect:
         serializedVersion: 2
-        x: 70
-        y: 7
-        width: 52
-        height: 52
+        x: 71
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +230,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_2
       rect:
         serializedVersion: 2
-        x: 134
-        y: 7
-        width: 52
-        height: 52
+        x: 135
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +251,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_3
       rect:
         serializedVersion: 2
-        x: 198
-        y: 7
-        width: 52
-        height: 52
+        x: 199
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,10 +272,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_4
       rect:
         serializedVersion: 2
-        x: 262
-        y: 7
-        width: 52
-        height: 52
+        x: 263
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,10 +293,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_5
       rect:
         serializedVersion: 2
-        x: 326
-        y: 7
-        width: 52
-        height: 52
+        x: 327
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +314,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_6
       rect:
         serializedVersion: 2
-        x: 390
-        y: 7
-        width: 52
-        height: 52
+        x: 391
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,10 +335,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_7
       rect:
         serializedVersion: 2
-        x: 454
-        y: 7
-        width: 52
-        height: 52
+        x: 455
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +356,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_8
       rect:
         serializedVersion: 2
-        x: 518
-        y: 7
-        width: 52
-        height: 52
+        x: 519
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,10 +377,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_9
       rect:
         serializedVersion: 2
-        x: 582
-        y: 7
-        width: 52
-        height: 52
+        x: 583
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +398,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_10
       rect:
         serializedVersion: 2
-        x: 646
-        y: 7
-        width: 52
-        height: 52
+        x: 647
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +419,10 @@ TextureImporter:
       name: Main Ship - Shields - Round Shield_11
       rect:
         serializedVersion: 2
-        x: 710
-        y: 7
-        width: 52
-        height: 52
+        x: 711
+        y: 8
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,7 +439,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 034b12aeb9633264fb724dae1e2bb543
     internalID: 0
     vertices: []
     indices: 

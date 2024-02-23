@@ -5,13 +5,11 @@ using UnityEngine;
 
 public class PScoreSystem : MonoBehaviour
 {
-    [Header("Prefabs")]
     [SerializeField] private GameObject parent;
     [SerializeField] private GameObject addScoreText;
     [SerializeField] private TMP_Text scoreText;
     [SerializeField] private GameObject placeForSpawnText;
 
-    [Header("Stats")]
     [SerializeField] private int _score = 0;
     [SerializeField] private int amoutForUsual;
     [SerializeField] private int amoutForNormal;
