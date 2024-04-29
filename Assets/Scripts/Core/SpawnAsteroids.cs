@@ -46,7 +46,7 @@ public class SpawnAsteroids : MonoBehaviour
                     countOfPlatforms = 0;
                     alreadySpawned += amoutAddCountPlat;
                     isNeed = false;
-                    platSpawnLogic.GetComponent<SpawnPlat>().StartAnim("Wave "
+                    platSpawnLogic.GetComponent<SpawnPlat>().StartAnim(""
                         + (platSpawnLogic.GetComponent<SpawnPlat>().wave + 1).ToString());
                     
                     Harder();
@@ -61,7 +61,7 @@ public class SpawnAsteroids : MonoBehaviour
             }
             else
             {
-                var a = Instantiate(_asteroids[UnityEngine.Random.Range(0, _asteroids.Length)],
+                var a = Instantiate(_asteroids[0],
                     placesForSpawnAster[
                         UnityEngine.Random.Range(0, placesForSpawnAster.Length)].transform.position,
                     Quaternion.identity);

@@ -37,7 +37,7 @@ public class SpawnPlat : MonoBehaviour
     private void Start()
     {
         waitForSeconds = new WaitForSeconds(delayForSpawn);
-        StartCoroutine(Animation("Wave 1"));
+        StartCoroutine(Animation("1"));
         StartCoroutine(Spawn());
     }
 
@@ -62,7 +62,7 @@ public class SpawnPlat : MonoBehaviour
 
                         Harder();
                         asterLogic.GetComponent<SpawnAsteroids>().StartSpawn();
-                        StartCoroutine(Animation("Asteroids!"));
+                        StartCoroutine(Animation("Asteroids"));
                         yield return null;
 
                     }

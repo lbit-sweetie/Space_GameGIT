@@ -52,12 +52,12 @@ public class CoinsSystem : MonoBehaviour
         //Отладка
         if (Input.GetKeyDown(KeyCode.B))
         {
-            Debug.Log("b");
+            Debug.Log("ClearAll");
             PlayerPrefs.DeleteAll();
         }
         if (Input.GetKeyDown(KeyCode.H))
         {
-            Debug.Log("h");
+            Debug.Log("Add 100");
             PlayerPrefs.SetInt("coins", PlayerPrefs.GetInt("coins") + 100);
         }
     }
