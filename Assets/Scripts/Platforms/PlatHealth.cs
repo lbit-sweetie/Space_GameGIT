@@ -83,7 +83,6 @@ public class PlatHealth : MonoBehaviour
     {
         var a = GameObject.FindGameObjectWithTag("Player");
         a.GetComponent<PScoreSystem>().AddScore(typePlatform);
-        a.GetComponent<AwardsSystem>().GetAward(gameObject.transform.position);
 
         var b = Instantiate(explosionPref, gameObject.transform.position, Quaternion.identity);
         Destroy(b, 1);

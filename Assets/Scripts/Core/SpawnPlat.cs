@@ -62,7 +62,7 @@ public class SpawnPlat : MonoBehaviour
 
                         Harder();
                         asterLogic.GetComponent<SpawnAsteroids>().StartSpawn();
-                        StartCoroutine(Animation("Asteroids"));
+                        StartCoroutine(Animation("Rocks"));
                         yield return null;
 
                     }

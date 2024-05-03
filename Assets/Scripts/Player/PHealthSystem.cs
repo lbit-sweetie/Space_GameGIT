@@ -14,9 +14,6 @@ public class PHealthSystem : MonoBehaviour
 
     public float health;
 
-    [SerializeField] public GameObject shiled1;
-    [SerializeField] public GameObject shiled2;
-
     private AudioManager _audioM;
 
     private int currentScore;

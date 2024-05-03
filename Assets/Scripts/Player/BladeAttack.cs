@@ -6,11 +6,9 @@ using UnityEngine;
 public class BladeAttack : MonoBehaviour
 {
     public float damage;
-    private AwardsSystem awardSystem;
 
     private void Start()
     {
-        awardSystem = GameObject.FindGameObjectWithTag("Player").GetComponent<AwardsSystem>();
         GetSavedStats();
     }
 
@@ -30,7 +28,6 @@ public class BladeAttack : MonoBehaviour
                 ColisionAsteroid(collision);
                 break;
             case "Award":
-                awardSystem.GetTypeAward(collision.gameObject.name);
                 Destroy(collision.gameObject);
                 break;
         }
