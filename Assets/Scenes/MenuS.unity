@@ -1513,7 +1513,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -6597383841171770269, guid: e28ebad8d604ad34dad10e4bc99cd9ce, type: 2}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: ad57559f6de84e9478e7234dd98b8c19, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -4364,8 +4364,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1698456417}
   m_HandleRect: {fileID: 1698456416}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.47788548
+  m_Value: 1
+  m_Size: 0.47788545
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4540,7 +4540,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicS: {fileID: 534183070}
   SFXSource: {fileID: 1416615608}
-  background: {fileID: 8300000, guid: 957e91af69af0f04b9534ef2c3c3decf, type: 3}
+  background: {fileID: 8300000, guid: ad57559f6de84e9478e7234dd98b8c19, type: 3}
   gameover: {fileID: 8300000, guid: 6b04dac8f796b9e4c82a986b1441c565, type: 3}
 --- !u!4 &1309918607
 Transform:
