@@ -19,6 +19,11 @@ public class FadeIn : MonoBehaviour
         }
     }
 
+    public void BackToMenu()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("MenuS");
+    }
     private void Start()
     {
         if (gameObject.tag == "FadeInGame")
@@ -27,9 +32,4 @@ public class FadeIn : MonoBehaviour
         }
     }
 
-    public void BackToMenu()
-    {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("MenuS");
-    }
 }

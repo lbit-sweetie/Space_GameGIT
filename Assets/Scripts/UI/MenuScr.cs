@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
@@ -16,7 +14,7 @@ public class MenuScr : MonoBehaviour
         SceneManager.LoadScene(sceneName);
     }
 
-    public void QuitGame()
+    public void QQashaskjl()
     {
         Application.Quit();
     }
@@ -26,7 +24,7 @@ public class MenuScr : MonoBehaviour
         audioMixer.SetFloat("volume", Mathf.Log10(volume) * 20);
     }
 
-    public void OpenNotEnought()
+    public void sdkvjsklvkjbsblkv()
     {
         notEnoughtAnim.GetComponent<Animator>().SetTrigger("Open");
     }

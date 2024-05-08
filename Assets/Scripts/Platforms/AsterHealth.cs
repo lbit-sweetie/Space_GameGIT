@@ -1,37 +1,33 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class AsterHealth : MonoBehaviour
 {
-    public GameObject deathParticles;
-
-    public bool isDetected;
+    public GameObject sdkvhbskhdvkhbsv;
+    public bool kjskbvjkjdvkjhdfv;
 
     private void Awake()
     {
         Destroy(gameObject, 12f);
     }
 
-    public void TakeDamage()
+
+    private void OnTriggerEnter2D(Collider2D jhdfvjjdhfvhjdfv)
     {
-        Instantiate(deathParticles, transform.position, Quaternion.identity);
-
-        var a = GameObject.FindGameObjectWithTag("Player");
-        a.GetComponent<PScoreSystem>().AddScore("asteroid");
-
-        Destroy(gameObject);
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player"))
+        if (jhdfvjjdhfvhjdfv.CompareTag("Player"))
         {
-            isDetected = true;
-            collision.gameObject.GetComponent<PHealthSystem>().TakeDamage(1);
+            kjskbvjkjdvkjhdfv = true;
+            jhdfvjjdhfvhjdfv.gameObject.GetComponent<UDGSIDVgsdgvisdgv>().svyuksduyvsudyvusydv(1);
             gameObject.tag = "Untagged";
             Destroy(gameObject);
         }
+    }
+    public void TakeDamage()
+    {
+        Instantiate(sdkvhbskhdvkhbsv, transform.position, Quaternion.identity);
+
+        var kjhfdvjhkdfvbdfhbkjv = GameObject.FindGameObjectWithTag("Player");
+        kjhfdvjhkdfvbdfhbkjv.GetComponent<suoitsdiygdhjbwehjvwejf>().uvityitiuvtdufytvyuidf("asteroid");
+
+        Destroy(gameObject);
     }
 }

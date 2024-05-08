@@ -2360,19 +2360,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0a20fc43dead0f47b26cda2f27b5807, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coins: 0
-  startCost: 0
-  amoutToAddCoins: 0
-  coinsText: {fileID: 1065822025}
-  canvasNotEnought: {fileID: 2017545093}
-  costTextMaxMana: {fileID: 897625781}
-  levelTextMaxMana: {fileID: 1034081683}
-  costTextRecoveryTime: {fileID: 841432918}
-  levelTextRecoveryTime: {fileID: 790272273}
-  costTextDamage: {fileID: 1354455021}
-  levelTextDamage: {fileID: 2035485844}
-  costTextSpeedObstacle: {fileID: 1441250810}
-  levelTextSpeedObstacle: {fileID: 377112155}
+  sdvsdjv: 0
+  dfkskdf: 0
+  skfuvkdfuvuywe: 0
+  vkuvywuev: {fileID: 1065822025}
+  wvybwfeyvbwre: {fileID: 2017545093}
+  ormbopirmoibmrtb: {fileID: 897625781}
+  jvnekjvnekjrnvre: {fileID: 1034081683}
+  vejnjkvnkjdfbv: {fileID: 841432918}
+  vkjdfbvkjdfbv: {fileID: 790272273}
+  skhbvskdhvbhsv: {fileID: 1354455021}
+  vksbvkwblvw: {fileID: 2035485844}
+  vkwvwve: {fileID: 1441250810}
+  viyieyrbvierviherv: {fileID: 377112155}
 --- !u!1 &790272270
 GameObject:
   m_ObjectHideFlags: 0
@@ -4364,7 +4364,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1698456417}
   m_HandleRect: {fileID: 1698456416}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 1.0000001
   m_Size: 0.47788545
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -4538,10 +4538,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01a79bea1913fa44eba3597e3119ea9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  musicS: {fileID: 534183070}
-  SFXSource: {fileID: 1416615608}
-  background: {fileID: 8300000, guid: ad57559f6de84e9478e7234dd98b8c19, type: 3}
-  gameover: {fileID: 8300000, guid: 6b04dac8f796b9e4c82a986b1441c565, type: 3}
+  kshdvkjsbdhkvskd: {fileID: 534183070}
+  khsdvhjksdhkjvskhdv: {fileID: 1416615608}
+  khsbvhkjbdskbhvsv: {fileID: 8300000, guid: ad57559f6de84e9478e7234dd98b8c19, type: 3}
+  ksbvkbsvkbsbkv: {fileID: 8300000, guid: 6b04dac8f796b9e4c82a986b1441c565, type: 3}
 --- !u!4 &1309918607
 Transform:
   m_ObjectHideFlags: 0
@@ -4802,7 +4802,6 @@ GameObject:
   - component: {fileID: 1365423585}
   - component: {fileID: 1365423589}
   - component: {fileID: 1365423588}
-  - component: {fileID: 1365423587}
   - component: {fileID: 1365423590}
   m_Layer: 5
   m_Name: StoreBTN
@@ -4831,27 +4830,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -100}
   m_SizeDelta: {x: 52, y: 16}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!95 &1365423587
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1365423584}
-  m_Enabled: 0
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 405a10b8bb86475409ad8f179aa46b22, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &1365423588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4935,8 +4913,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 753624598}
-        m_TargetAssemblyTypeName: CoinsSystem, Assembly-CSharp
-        m_MethodName: UpdateCostMenu
+        m_TargetAssemblyTypeName: vjfkjvkjdfkjv, Assembly-CSharp
+        m_MethodName: vdfjvjdfjkvdjkfvkj
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5295,7 +5273,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 753624597}
         m_TargetAssemblyTypeName: MenuScr, Assembly-CSharp
-        m_MethodName: QuitGame
+        m_MethodName: QQashaskjl
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5391,7 +5369,7 @@ RectTransform:
   m_GameObject: {fileID: 1429570688}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.1414, y: 1.1414, z: 1.1414}
+  m_LocalScale: {x: 4.4294906, y: 4.4294906, z: 4.4294906}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 753624596}
@@ -5399,7 +5377,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -10.228, y: -22.1329}
-  m_SizeDelta: {x: 1022.8, y: 2213.6084}
+  m_SizeDelta: {x: 512, y: 512}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1429570690
 MonoBehaviour:
@@ -5421,7 +5399,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5f000e0482e82624d9b028559015db6f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6363f4c9a80cdbb4998d402bb1f59d36, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7568,7 +7546,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2017545094
 RectTransform:
   m_ObjectHideFlags: 0
